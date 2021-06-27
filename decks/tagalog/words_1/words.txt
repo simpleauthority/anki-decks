@@ -1,0 +1,540 @@
+numero;wala;zero
+numero;isa;one
+numero;dalawa;two
+numero;tatlo;three
+numero;apat;four
+numero;lima;five
+numero;anim;six
+numero;pito;seven
+numero;walo;eight
+numero;siyam;nine
+numero;sampu;ten
+numero;labing-isa;eleven
+numero;labindalawa;twelve
+numero;labintatlo;thirteen
+numero;labing-apat;fourteen
+numero;labinlima;fifteen
+numero;labing-anim;sixteen
+numero;labimpito;seventeen
+numero;labing-walo;eighteen
+numero;labinsiyam;nineteen
+numero;dalawampu;twenty
+numero;dalawampu't isa;twenty one
+numero;dalawampu't dalawa;twenty two
+numero;tatlumpu;thirty
+numero;tatlumpu't isa;thirty one
+numero;tatlumpu't dalawa;thirty two
+numero;apatnapu;forty
+numero;apatnapu't isa;forty one
+numero;apatnapu't dalawa;forty two
+numero;limampu;fifty
+numero;limampu't isa;fifty one
+numero;limampu't dalawa;fifty two
+numero;animnapu;sixty
+numero;animnapu't isa;sixty one
+numero;animnapu't dalawa;sixty two
+numero;pitumpu;seventy
+numero;pitumpu't isa;seventy one
+numero;pitumpu't dalawa;seventy two
+numero;walumpu;eighty
+numero;walumpu't isa;eighty one
+numero;walumpu't dalawa;eighty two
+numero;siyamnapu;ninety
+numero;siyamnapu't isa;ninety one
+numero;siyamnapu't dalawa;ninety two
+numero;isang daan;one hundred
+numero;isang daan at isa;one hundred one
+numero;isang daan at dalawa;one hundred two
+numero;isang daan at sampu;one hundred ten
+numero;isang daan at labing-isa;one hundred eleven
+numero;isang libo;one thousand
+numero;isang libo't isa;one thousand one
+numero;sampung libo;ten thousand
+numero;isang daang libo;one hundred thousand
+numero;isang milyon;one million
+numero;isang bilyon;one billion
+numero;numero;number
+pangngalan;aso;dog
+pangngalan;pusa;cat
+pangngalan;isda;fish
+pangngalan;ibon;bird
+pangngalan;baka;cow
+pangngalan;baboy;pig
+pangngalan;dagâ;mouse
+pangngalan;kabayo;horse
+pangngalan;pakpák;wing
+pangngalan;hayop;animal
+pangngalan;tren;train
+pangngalan;eroplano;plane
+pangngalan;kotse;car
+pangngalan;trak;truck
+pangngalan;bisikleta;bicycle
+pangngalan;bus;bus
+pangngalan;bangka;boat
+pangngalan;barko;ship
+pangngalan;gulóng;tire
+pangngalan;gasolina;gasoline
+pangngalan;motór;engine
+pangngalan;tiket ng tren;train ticket
+pangngalan;transportasyon;transportation
+pangngalan;lungsód;city
+pangngalan;bahay;house
+pangngalan;apartment;apartment
+pangngalan;daan;street/road
+pangngalan;páliparan;airport
+pangngalan;istasyón ng tren;train station
+pangngalan;tuláy;bridge
+pangngalan;otél;hotel
+pangngalan;restawrán;restaurant
+pangngalan;bukid;farm
+pangngalan;hukuman;court
+pangngalan;páaralán;school
+pangngalan;opisina;office
+pangngalan;kuwarto;room
+pangngalan;bayan;town
+pangngalan;pamantasan;university
+pangngalan;klub;club
+pangngalan;bar;bar
+pangngalan;parké;park
+pangngalan;kampo;camp
+pangngalan;tindahan;store/shop
+pangngalan;teatro;theater
+pangngalan;aklatan;library
+pangngalan;ospitál;hospital
+pangngalan;simbahan;church
+pangngalan;palengke;market
+pangngalan;bansâ;country
+pangngalan;gusalì;building
+pangngalan;lupà;ground
+pangngalan;kalawakan;space (outer space)
+pangngalan;bangko;bank
+pangngalan;lugár;location
+pangngalan;sombrero;hat
+pangngalan;bestida;dress
+pangngalan;amerikana;suit/coat
+pangngalan;palda;skirt
+pangngalan;kamiseta;shirt
+pangngalan;t-shirt;t-shirt
+pangngalan;pantalón;pants
+pangngalan;sapatos;shoes
+pangngalan;bulsá;pocket
+pangngalan;mantsa;stain
+pangngalan;damít;clothing
+pangngalan;kúlay;color
+pangngalan;sanggól;baby
+pangngalan;lalaki;man
+pangngalan;babae;woman
+pangngalan;batang lalaki;boy
+pangngalan;batang babae;girl
+pangngalan;batà;child
+pangngalan;gulang;adult
+pangngalan;pantao;human
+pangngalan;kaibigan;friend
+pangngalan;biktima;victim
+pangngalan;manlaláro;player
+pangngalan;taga-hangà;fan
+pangngalan;karamihan;crowd
+pangngalan;tao;person
+pangngalan;trabaho;work/job
+pangngalan;relihiyón;religion
+pangngalan;paraiso;heaven
+pangngalan;impyerno;hell
+pangngalan;pagkamatáy;death
+pangngalan;gamót;medicine
+pangngalan;pera;money
+pangngalan;dolyar;dollar
+pangngalan;utang;bill
+pangngalan;buhay may asawa;marriage
+pangngalan;kasál;wedding
+pangngalan;koponán;team
+pangngalan;lahì;race (ethnicity)
+pangngalan;pagtatalik;sex (the act)
+pangngalan;kasarián;sex (gender)
+pangngalan;pagpatáy;murder
+pangngalan;bilangguan;prison
+pangngalan;teknolohiya;technology
+pangngalan;enerhiya;energy
+pangngalan;digmâ;war
+pangngalan;kapayapaan;peace
+pangngalan;salakay;attack
+pangngalan;eleksyon;election
+pangngalan;mágasin;magazine
+pangngalan;peryódikó;newspaper
+pangngalan;lason;poison
+pangngalan;baríl;gun
+pangngalan;palakasan;sport
+pangngalan;takbuhan;race
+pangngalan;ehersisyo;exercise
+pangngalan;bola;ball
+pangngalan;larô;game
+pangngalan;presyo;price
+pangngalan;kontrata;contract
+pangngalan;droga;drug
+pangngalan;karátulá;sign
+pangngalan;aghám;science
+pangngalan;banda;band
+pangngalan;awit;song
+pangngalan;instrumento;instrument
+pangngalan;músika;music
+pangngalan;pelíkulá;movie
+pangngalan;arte;art
+pangngalan;kape;coffee
+pangngalan;tsaá;tea
+pangngalan;alak;wine
+pangngalan;serbesa;beer
+pangngalan;dyus;juice
+pangngalan;tubig;water
+pangngalan;gatas;milk;pangngalan
+pangngalan;inumin;beverage
+pangngalan;itlog;egg
+pangngalan;keso;cheese
+pangngalan;tinapay;bread
+pangngalan;sopas;soup
+pangngalan;keyk;cake
+pangngalan;manók;chicken
+pangngalan;karnéng-baboy;pork
+pangngalan;karnéng-baka;beef
+pangngalan;mansanas;apple
+pangngalan;saging;banana
+pangngalan;dalandán;orange
+pangngalan;lemón;lemon
+pangngalan;maís;corn
+pangngalan;kanin;rice
+pangngalan;mantikà;oil
+pangngalan;butó;seed
+pangngalan;kutsilyo;knife
+pangngalan;kutsara;spoon
+pangngalan;tinidór;fork
+pangngalan;plato;plate
+pangngalan;tasa;cup
+pangngalan;almusál;breakfast
+pangngalan;tanghalian;lunch
+pangngalan;hapunan;dinner
+pangngalan;asukal;sugar
+pangngalan;asín;salt
+pangngalan;botelya;bottle
+pangngalan;pagkain;food
+pangngalan;mesa;table
+pangngalan;upuan;chair
+pangngalan;kama;bed
+pangngalan;pangarap;ambition
+pangngalan;panaginip;dream
+pangngalan;bintana;window
+pangngalan;pintô;door
+pangngalan;kuwarto;bedroom
+pangngalan;kusina;kitchen
+pangngalan;palikuran/kubeta/CR;bathroom
+pangngalan;lapis;pencil
+pangngalan;bolpen;pen
+pangngalan;litrato;photograph
+pangngalan;sabón;soap
+pangngalan;aklat;book
+pangngalan;páhína;page
+pangngalan;susì;key
+pangngalan;pintura;paint
+pangngalan;titik;letter
+pangngalan;nota;note
+pangngalan;padér;wall
+pangngalan;papel;paper
+pangngalan;sahíg;floor
+pangngalan;kísame;ceiling
+pangngalan;bubóng;roof
+pangngalan;languyan;pool
+pangngalan;kandado;lock
+pangngalan;telepono;telephone
+pangngalan;hardín;garden
+pangngalan;bakuran;yard
+pangngalan;karayom;needle
+pangngalan;supot;bag
+pangngalan;kahon;box
+pangngalan;regalo;gift
+pangngalan;baraha;card
+pangngalan;kulilíng;ring
+pangngalan;kasangkapan;tool
+pangngalan;orasán;clock
+pangngalan;ilawán;lamp
+pangngalan;abaniko;fan
+pangngalan;cellphone;cellphone
+pangngalan;network;network
+pangngalan;kompyuter;computer
+pangngalan;progama;program (computer)
+pangngalan;laptop;laptop
+pangngalan;iskrín;screen
+pangngalan;kamera;camera
+pangngalan;telebisyón;television
+pangngalan;radyo;radio
+pangngalan;ulo;head
+pangngalan;leég;neck
+pangngalan;mukha;face
+pangngalan;balbas;beard
+pangngalan;buhok;hair
+pangngalan;mata;eye
+pangngalan;bibig;mouth
+pangngalan;labì;lip
+pangngalan;ilóng;nose
+pangngalan;ngipin;tooth
+pangngalan;tainga;ear
+pangngalan;luhà;tear (drop)
+pangngalan;dilà;tongue
+pangngalan;likod;back
+pangngalan;daliri sa paá;toe
+pangngalan;daliri;finger
+pangngalan;paá;foot
+pangngalan;kamáy;hand
+pangngalan;binti;leg
+pangngalan;braso;arm
+pangngalan;balikat;shoulder
+pangngalan;puso;heart
+pangngalan;dugo;blood
+pangngalan;utak;brain
+pangngalan;tuhod;knee
+pangngalan;pawis;sweat
+pangngalan;sakit;disease
+pangngalan;tinik;fishbone
+pangngalan;butó;bone
+pangngalan;tinig;voice
+pangngalan;balat;skin
+pangngalan;katawan;body
+pangngalan;dagat;sea
+pangngalan;karagatán;ocean
+pangngalan;ilog;river
+pangngalan;bundók;mountain
+pangngalan;ulan;rain
+pangngalan;niyebe;snow
+pangngalan;puno;tree
+pangngalan;araw;sun
+pangngalan;buwan;moon
+pangngalan;mundo;world
+pangngalan;gubat;forest
+pangngalan;kalangítan;sky
+pangngalan;halaman;plant
+pangngalan;hangin;wind
+pangngalan;lupa;soil/earth
+pangngalan;bulaklak;flower
+pangngalan;lambak;valley
+pangngalan;ugat;root
+pangngalan;lawa;lake
+pangngalan;bituín;star
+pangngalan;damò;grass
+pangngalan;dahon;leaf
+pangngalan;hangin;air
+pangngalan;buhangin;sand
+pangngalan;tabíng-dagat;beach
+pangngalan;alon;wave
+pangngalan;sunog;fire
+pangngalan;yelo;ice
+pangngalan;isla;island
+pangngalan;buról;hill
+pangngalan;init;heat
+pangngalan;kalikasan;nature
+pangngalan;salamín;glass
+pangngalan;bakal;metal
+pangngalan;plastik;plastic
+pangngalan;kahoy;wood
+pangngalan;bató;stone
+pangngalan;diyamante;diamond
+pangngalan;luwád;clay
+pangngalan;alikabók;dust
+pangngalan;gintô;gold
+pangngalan;tansô;copper
+pangngalan;pilak;silver
+pangngalan;materyál;material
+pangngalan;metro;meter
+pangngalan;sentimetro;centimeter
+pangngalan;kilo;kilogram
+pangngalan;pulgada;inch
+pangngalan;piyé;foot
+pangngalan;libra;pound
+pangngalan;kalahatì;half
+pangngalan;bilog;circle
+pangngalan;parisukát;square
+pangngalan;temperatura;temperature
+pangngalan;petsa;date
+pangngalan;timbáng;weight
+pangngalan;gilid;edge
+pangngalan;kanto;corner
+pangngalan;mapa;map
+pangngalan;punto;dot
+pangngalan;katinig;consonant
+pangngalan;patinig;vowel
+pangngalan;ilaw;light
+pangngalan;tunóg;sound
+pangngalan;piraso;piece
+pangngalan;pananakít;pain
+pangngalan;pinsalà;injury
+pangngalan;butas;hole
+pangngalan;larawan;image
+pangngalan;padrón;pattern
+pangngalan;pangngalan;noun
+pangngalan;pandiwa;verb
+pangngalan;pang-urí;adjective
+pangngalan;gawî;direction
+pangngalan;kapanahunan;season
+pangngalan;taón;year
+pangngalan;buwán;month
+pangngalan;linggó;week
+pangngalan;araw;day
+pangngalan;oras;time/hour
+pangngalan;minuto;minute
+pangngalan;segundo;second
+pangngalan;umaga;morning
+pangngalan;hapon;afternoon
+pangngalan;gabí;evening/night
+tamang pangngalan;Diyos;God
+tamang pangngalan;daigdíg;Earth
+tamang pangngalan;Hilagà;North
+tamang pangngalan;Timog;South
+tamang pangngalan;Silangan;East
+tamang pangngalan;Kanluran;West
+tamang pangngalan;Tag-aráw;Summer
+tamang pangngalan;Tagsiból;Spring
+tamang pangngalan;Taglamíg;Winter
+tamang pangngalan;Taglagás;Fall
+tamang pangngalan;Enero;January
+tamang pangngalan;Pebrero;February
+tamang pangngalan;Marso;March
+tamang pangngalan;Abríl;April
+tamang pangngalan;Mayo;May
+tamang pangngalan;Hunyo;June
+tamang pangngalan;Hulyo;July
+tamang pangngalan;Agosto;August
+tamang pangngalan;Setyembre;September
+tamang pangngalan;Oktubre;October
+tamang pangngalan;Nobyembre;November
+tamang pangngalan;Disyembre;December
+tamang pangngalan;Lunes;Monday
+tamang pangngalan;Martės;Tuesday
+tamang pangngalan;Miyérkoles;Wednesday
+tamang pangngalan;Huwebes;Thursday
+tamang pangngalan;Biyernes;Friday
+tamang pangngalan;Sábado;Saturday
+tamang pangngalan;Linggó;Sunday
+pang-urí;itaás;top
+pang-urí;ilalim;bottom
+pang-urí;tabí;side
+pang-urí;haráp;front
+pang-urí;likód;back
+pang-urí;labás;outside
+pang-urí;loób;inside
+pang-urí;taás;up
+pang-urí;babâ;down
+pang-urí;kaliwâ;left
+pang-urí;kanan;right
+pang-urí;deretso;straight
+pang-urí;una;first
+pang-urí;pangalawá;second
+pang-urí;pang-atlo;third
+pang-urí;pang-apat;fourth
+pang-urí;panlima;fifth
+pang-urí;mahabà;long
+pang-urí;maiksî;short (length)
+pang-urí;matangkád;tall
+pang-urí;maliít;short/small/little
+pang-urí;malapad;wide (object)
+pang-urí;malawak;wide (space)
+pang-urí;makipot;narrow
+pang-urí;malakí;big/large
+pang-urí;mabagal;slow
+pang-urí;mabilís;fast
+pang-urí;mainit;hot/warm
+pang-urí;malamíg;cold/cool
+pang-urí;bago;new
+pang-urí;lumà;old (new)
+pang-urí;batà;young
+pang-urí;matandà;old (young)
+pang-urí;mabuti;good
+pang-urí;masamâ;bad
+pang-urí;basâ;wet
+pang-urí;tuyô;dry
+pang-urí;may sakít;sick
+pang-urí;malusog;healthy
+pang-urí;maingay;loud
+pang-urí;tahimik;quiet
+pang-urí;masayá;happy
+pang-urí;malungkót;sad
+pang-urí;maganda;beautiful
+pang-urí;pangit;ugly
+pang-urí;bingí;deaf
+pang-urí;bulág;blind
+pang-urí;mabaít;nice
+pang-urí;masamâ;mean
+pang-urí;mayaman;rich
+pang-urí;mahirap;poor
+pang-urí;makapál;thick
+pang-urí;payát;thin
+pang-urí;mahál;expensive
+pang-urí;mura;cheap
+pang-urí;patag;flat
+pang-urí;kurbado;curved
+pang-urí;lalaki;male
+pang-urí;babae;female
+pang-urí;masikíp;tight
+pang-urí;maluwág;loose
+pang-urí;mataás;high
+pang-urí;mababà;low
+pang-urí;malambót;soft
+pang-urí;matigás;hard
+pang-urí;malalim;deep
+pang-urí;mababaw;shallow
+pang-urí;malinis;clean
+pang-urí;marumí;dirty
+pang-urí;malakás;strong
+pang-urí;mahinà;weak
+pang-urí;patày;dead
+pang-urí;buhày;alive
+pang-urí;mabigát;heavy
+pang-urí;magaán;light (heavy)
+pang-urí;madilím;dark
+pang-urí;maliwanag;light (dark)
+pang-urí;nukleyár;nuclear
+pang-urí;sikát;famous
+kuláy;pulá;red
+kuláy;berde;green
+kuláy;asul;blue (light/dark)
+kuláy;dilaw;yellow
+kuláy;kape;brown
+kuláy;rosas;pink
+kuláy;kahél;orange
+kuláy;itím;black
+kuláy;putî;white
+kuláy;kúlay-abó;gray
+relasyon;anák na lalaki;son
+relasyon;anák na babae;daughter
+relasyon;nanay;mother
+relasyon;tatay;father
+relasyon;magulang;parent
+relasyon;kapatid na lalaki;brother
+relasyon;kapatid na babae;sister
+relasyon;pamilya;family
+relasyon;lolo;grandfather
+relasyon;lola;grandmother
+relasyon;asawa;husband/wife
+relasyon;kapitbahay;neighbor
+propesyon;harì;king
+propesyon;reyna;queen
+propesyon;pangulo;president
+propesyon;gurò;teacher
+propesyon;estudyante;student
+propesyon;abogado;lawyer
+propesyon;doktor;doctor
+propesyon;pasyente;patient
+propesyon;weyter;waiter
+propesyon;kalihim;secretary
+propesyon;parì;priest
+propesyon;pulís;police
+propesyon;hukbó;army
+propesyon;sundalo;soldier
+propesyon;artista;artist
+propesyon;awtór;author
+propesyon;mánedyér;manager
+propesyon;reporter;reporter
+propesyon;aktor;actor
+kataga;oo;yes
+kataga;hindi;no
+panghalip na aktor;ako;I
+panghalip na aktor;ka/ikaw;you (singular)
+panghalip na aktor;siya;he/she/it
+panghalip na aktor;kami;we (exclusive)
+panghalip na aktor;tayo;we (inclusive)
+panghalip na aktor;kayo;you (plural)
+panghalip na aktor;sila;they
