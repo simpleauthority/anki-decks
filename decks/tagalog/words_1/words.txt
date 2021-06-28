@@ -65,7 +65,7 @@ pangngalan;kabayo;horse
 pangngalan;pakpák;wing
 pangngalan;hayop;animal
 pangngalan;tren;train
-pangngalan;eroplano;plane
+pangngalan;eroplano;airplane
 pangngalan;kotse;car
 pangngalan;trak;truck
 pangngalan;bisikleta;bicycle
@@ -75,12 +75,12 @@ pangngalan;barko;ship
 pangngalan;gulóng;tire
 pangngalan;gasolina;gasoline
 pangngalan;motór;engine
-pangngalan;tiket ng tren;train ticket
+pangngalan;tiket (ng tren);ticket
 pangngalan;transportasyon;transportation
 pangngalan;lungsód;city
 pangngalan;bahay;house
 pangngalan;apartment;apartment
-pangngalan;daan;street/road
+pangngalan;daan;street
 pangngalan;páliparan;airport
 pangngalan;istasyón ng tren;train station
 pangngalan;tuláy;bridge
@@ -97,7 +97,7 @@ pangngalan;klub;club
 pangngalan;bar;bar
 pangngalan;parké;park
 pangngalan;kampo;camp
-pangngalan;tindahan;store/shop
+pangngalan;tindahan;store
 pangngalan;teatro;theater
 pangngalan;aklatan;library
 pangngalan;ospitál;hospital
@@ -106,12 +106,13 @@ pangngalan;palengke;market
 pangngalan;bansâ;country
 pangngalan;gusalì;building
 pangngalan;lupà;ground
-pangngalan;kalawakan;space (outer space)
+pangngalan;kalawakan;space
 pangngalan;bangko;bank
 pangngalan;lugár;location
 pangngalan;sombrero;hat
 pangngalan;bestida;dress
-pangngalan;amerikana;suit/coat
+pangngalan;amerikana;suit
+pangngalan;panlamig;sweater
 pangngalan;palda;skirt
 pangngalan;kamiseta;shirt
 pangngalan;t-shirt;t-shirt
@@ -132,10 +133,10 @@ pangngalan;pantao;human
 pangngalan;kaibigan;friend
 pangngalan;biktima;victim
 pangngalan;manlaláro;player
-pangngalan;taga-hangà;fan
+pangngalan;taga-hangà;fanatic
 pangngalan;karamihan;crowd
 pangngalan;tao;person
-pangngalan;trabaho;work/job
+pangngalan;trabaho;job
 pangngalan;relihiyón;religion
 pangngalan;paraiso;heaven
 pangngalan;impyerno;hell
@@ -147,9 +148,9 @@ pangngalan;utang;bill
 pangngalan;buhay may asawa;marriage
 pangngalan;kasál;wedding
 pangngalan;koponán;team
-pangngalan;lahì;race (ethnicity)
-pangngalan;pagtatalik;sex (the act)
-pangngalan;kasarián;sex (gender)
+pangngalan;lahì;ethnicity
+pangngalan;pagtatalik;sex
+pangngalan;kasarián;gender
 pangngalan;pagpatáy;murder
 pangngalan;bilangguan;prison
 pangngalan;teknolohiya;technology
@@ -184,7 +185,7 @@ pangngalan;alak;wine
 pangngalan;serbesa;beer
 pangngalan;dyus;juice
 pangngalan;tubig;water
-pangngalan;gatas;milk;pangngalan
+pangngalan;gatas;milk
 pangngalan;inumin;beverage
 pangngalan;itlog;egg
 pangngalan;keso;cheese
