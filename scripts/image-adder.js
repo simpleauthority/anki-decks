@@ -32,7 +32,7 @@ import * as fs from 'fs/promises'
         content = content.map(line => {
             line = line.replace(/[\u0000-\u001F\u007F-\u009F]/g, "")
             let word = line.split(";")[2]
-            line = `${line};${imagePath}\\${word}.jpg`
+            line = `${line};${imagePath}${word}.jpg`
             return line
         })
 
