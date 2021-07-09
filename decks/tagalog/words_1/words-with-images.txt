@@ -1,0 +1,406 @@
+pangngalan;aso;dog;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\dog.jpg
+pangngalan;pusa;cat;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\cat.jpg
+pangngalan;isda;fish;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\fish.jpg
+pangngalan;ibon;bird;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bird.jpg
+pangngalan;baka;cow;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\cow.jpg
+pangngalan;baboy;pig;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pig.jpg
+pangngalan;dagâ;mouse;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\mouse.jpg
+pangngalan;kabayo;horse;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\horse.jpg
+pangngalan;pakpák;wing;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\wing.jpg
+pangngalan;hayop;animal;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\animal.jpg
+pangngalan;tren;train;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\train.jpg
+pangngalan;eroplano;airplane;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\airplane.jpg
+pangngalan;kotse;car;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\car.jpg
+pangngalan;trak;truck;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\truck.jpg
+pangngalan;bisikleta;bicycle;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bicycle.jpg
+pangngalan;bus;bus;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bus.jpg
+pangngalan;bangka;boat;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\boat.jpg
+pangngalan;barko;ship;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ship.jpg
+pangngalan;gulóng;tire;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\tire.jpg
+pangngalan;gasolina;gasoline;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\gasoline.jpg
+pangngalan;motór;engine;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\engine.jpg
+pangngalan;tiket (ng tren);ticket;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ticket.jpg
+pangngalan;transportasyon;transportation;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\transportation.jpg
+pangngalan;lungsód;city;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\city.jpg
+pangngalan;bahay;house;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\house.jpg
+pangngalan;apartment;apartment;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\apartment.jpg
+pangngalan;daan;street;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\street.jpg
+pangngalan;páliparan;airport;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\airport.jpg
+pangngalan;istasyón ng tren;train station;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\train station.jpg
+pangngalan;tuláy;bridge;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bridge.jpg
+pangngalan;otél;hotel;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\hotel.jpg
+pangngalan;restawrán;restaurant;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\restaurant.jpg
+pangngalan;bukid;farm;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\farm.jpg
+pangngalan;hukuman;court;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\court.jpg
+pangngalan;páaralán;school;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\school.jpg
+pangngalan;opisina;office;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\office.jpg
+pangngalan;kuwarto;room;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\room.jpg
+pangngalan;bayan;town;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\town.jpg
+pangngalan;pamantasan;university;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\university.jpg
+pangngalan;klub;club;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\club.jpg
+pangngalan;bar;bar;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bar.jpg
+pangngalan;parké;park;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\park.jpg
+pangngalan;kampo;camp;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\camp.jpg
+pangngalan;tindahan;store;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\store.jpg
+pangngalan;teatro;theater;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\theater.jpg
+pangngalan;aklatan;library;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\library.jpg
+pangngalan;ospitál;hospital;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\hospital.jpg
+pangngalan;simbahan;church;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\church.jpg
+pangngalan;palengke;market;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\market.jpg
+pangngalan;bansâ;country;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\country.jpg
+pangngalan;gusalì;building;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\building.jpg
+pangngalan;lupà;ground;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ground.jpg
+pangngalan;kalawakan;space;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\space.jpg
+pangngalan;bangko;bank;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bank.jpg
+pangngalan;lugár;location;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\location.jpg
+pangngalan;sombrero;hat;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\hat.jpg
+pangngalan;bestida;dress;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\dress.jpg
+pangngalan;amerikana;suit;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\suit.jpg
+pangngalan;panlamig;sweater;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sweater.jpg
+pangngalan;palda;skirt;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\skirt.jpg
+pangngalan;kamiseta;shirt;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\shirt.jpg
+pangngalan;t-shirt;t-shirt;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\t-shirt.jpg
+pangngalan;pantalón;pants;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pants.jpg
+pangngalan;sapatos;shoes;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\shoes.jpg
+pangngalan;bulsá;pocket;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pocket.jpg
+pangngalan;mantsa;stain;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\stain.jpg
+pangngalan;damít;clothing;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\clothing.jpg
+pangngalan;kúlay;color;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\color.jpg
+pangngalan;sanggól;baby;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\baby.jpg
+pangngalan;lalaki;man;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\man.jpg
+pangngalan;babae;woman;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\woman.jpg
+pangngalan;batang lalaki;boy;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\boy.jpg
+pangngalan;batang babae;girl;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\girl.jpg
+pangngalan;batà;child;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\child.jpg
+pangngalan;gulang;adult;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\adult.jpg
+pangngalan;pantao;human;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\human.jpg
+pangngalan;kaibigan;friend;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\friend.jpg
+pangngalan;biktima;victim;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\victim.jpg
+pangngalan;manlaláro;player;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\player.jpg
+pangngalan;taga-hangà;fanatic;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\fanatic.jpg
+pangngalan;karamihan;crowd;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\crowd.jpg
+pangngalan;tao;person;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\person.jpg
+pangngalan;trabaho;job;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\job.jpg
+pangngalan;relihiyón;religion;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\religion.jpg
+pangngalan;paraiso;heaven;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\heaven.jpg
+pangngalan;impyerno;hell;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\hell.jpg
+pangngalan;pagkamatáy;death;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\death.jpg
+pangngalan;gamót;medicine;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\medicine.jpg
+pangngalan;pera;money;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\money.jpg
+pangngalan;dolyar;dollar;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\dollar.jpg
+pangngalan;utang;bill;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bill.jpg
+pangngalan;buhay may asawa;marriage;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\marriage.jpg
+pangngalan;kasál;wedding;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\wedding.jpg
+pangngalan;koponán;team;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\team.jpg
+pangngalan;lahì;ethnicity;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ethnicity.jpg
+pangngalan;pagtatalik;sex;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sex.jpg
+pangngalan;kasarián;gender;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\gender.jpg
+pangngalan;pagpatáy;murder;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\murder.jpg
+pangngalan;bilangguan;prison;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\prison.jpg
+pangngalan;teknolohiya;technology;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\technology.jpg
+pangngalan;enerhiya;energy;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\energy.jpg
+pangngalan;digmâ;war;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\war.jpg
+pangngalan;kapayapaan;peace;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\peace.jpg
+pangngalan;salakay;attack;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\attack.jpg
+pangngalan;eleksyon;election;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\election.jpg
+pangngalan;mágasin;magazine;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\magazine.jpg
+pangngalan;peryódikó;newspaper;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\newspaper.jpg
+pangngalan;lason;poison;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\poison.jpg
+pangngalan;baríl;gun;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\gun.jpg
+pangngalan;palakasan;sport;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sport.jpg
+pangngalan;takbuhan;race;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\race.jpg
+pangngalan;ehersisyo;exercise;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\exercise.jpg
+pangngalan;bola;ball;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ball.jpg
+pangngalan;larô;game;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\game.jpg
+pangngalan;presyo;price;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\price.jpg
+pangngalan;kontrata;contract;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\contract.jpg
+pangngalan;droga;drug;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\drug.jpg
+pangngalan;karátulá;sign;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sign.jpg
+pangngalan;aghám;science;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\science.jpg
+pangngalan;banda;band;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\band.jpg
+pangngalan;awit;song;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\song.jpg
+pangngalan;instrumento;instrument;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\instrument.jpg
+pangngalan;músika;music;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\music.jpg
+pangngalan;pelíkulá;movie;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\movie.jpg
+pangngalan;arte;art;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\art.jpg
+pangngalan;kape;coffee;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\coffee.jpg
+pangngalan;tsaá;tea;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\tea.jpg
+pangngalan;alak;wine;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\wine.jpg
+pangngalan;serbesa;beer;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\beer.jpg
+pangngalan;dyus;juice;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\juice.jpg
+pangngalan;tubig;water;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\water.jpg
+pangngalan;gatas;milk;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\milk.jpg
+pangngalan;inumin;beverage;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\beverage.jpg
+pangngalan;itlog;egg;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\egg.jpg
+pangngalan;keso;cheese;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\cheese.jpg
+pangngalan;tinapay;bread;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bread.jpg
+pangngalan;sopas;soup;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\soup.jpg
+pangngalan;keyk;cake;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\cake.jpg
+pangngalan;manók;chicken;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\chicken.jpg
+pangngalan;karnéng-baboy;pork;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pork.jpg
+pangngalan;karnéng-baka;beef;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\beef.jpg
+pangngalan;mansanas;apple;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\apple.jpg
+pangngalan;saging;banana;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\banana.jpg
+pangngalan;dalandán;orange;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\orange.jpg
+pangngalan;lemón;lemon;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\lemon.jpg
+pangngalan;maís;corn;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\corn.jpg
+pangngalan;kanin;rice;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\rice.jpg
+pangngalan;mantikà;oil;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\oil.jpg
+pangngalan;butó;seed;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\seed.jpg
+pangngalan;kutsilyo;knife;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\knife.jpg
+pangngalan;kutsara;spoon;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\spoon.jpg
+pangngalan;tinidór;fork;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\fork.jpg
+pangngalan;plato;plate;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\plate.jpg
+pangngalan;tasa;cup;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\cup.jpg
+pangngalan;almusál;breakfast;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\breakfast.jpg
+pangngalan;tanghalian;lunch;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\lunch.jpg
+pangngalan;hapunan;dinner;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\dinner.jpg
+pangngalan;asukal;sugar;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sugar.jpg
+pangngalan;asín;salt;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\salt.jpg
+pangngalan;botelya;bottle;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bottle.jpg
+pangngalan;pagkain;food;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\food.jpg
+pangngalan;mesa;table;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\table.jpg
+pangngalan;upuan;chair;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\chair.jpg
+pangngalan;kama;bed;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bed.jpg
+pangngalan;pangarap;ambition;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ambition.jpg
+pangngalan;panaginip;dream;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\dream.jpg
+pangngalan;bintana;window;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\window.jpg
+pangngalan;pintô;door;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\door.jpg
+pangngalan;kuwarto;bedroom;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bedroom.jpg
+pangngalan;kusina;kitchen;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\kitchen.jpg
+pangngalan;palikuran/kubeta/CR;bathroom;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bathroom.jpg
+pangngalan;lapis;pencil;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pencil.jpg
+pangngalan;bolpen;pen;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pen.jpg
+pangngalan;litrato;photograph;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\photograph.jpg
+pangngalan;sabón;soap;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\soap.jpg
+pangngalan;aklat;book;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\book.jpg
+pangngalan;páhína;page;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\page.jpg
+pangngalan;susì;key;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\key.jpg
+pangngalan;pintura;paint;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\paint.jpg
+pangngalan;titik;letter;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\letter.jpg
+pangngalan;nota;note;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\note.jpg
+pangngalan;padér;wall;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\wall.jpg
+pangngalan;papel;paper;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\paper.jpg
+pangngalan;sahíg;floor;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\floor.jpg
+pangngalan;kísame;ceiling;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ceiling.jpg
+pangngalan;bubóng;roof;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\roof.jpg
+pangngalan;languyan;pool;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pool.jpg
+pangngalan;kandado;lock;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\lock.jpg
+pangngalan;telepono;telephone;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\telephone.jpg
+pangngalan;hardín;garden;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\garden.jpg
+pangngalan;bakuran;yard;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\yard.jpg
+pangngalan;karayom;needle;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\needle.jpg
+pangngalan;supot;bag;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bag.jpg
+pangngalan;kahon;box;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\box.jpg
+pangngalan;regalo;gift;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\gift.jpg
+pangngalan;baraha;card;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\card.jpg
+pangngalan;kulilíng;ring;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ring.jpg
+pangngalan;kasangkapan;tool;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\tool.jpg
+pangngalan;orasán;clock;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\clock.jpg
+pangngalan;ilawán;lamp;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\lamp.jpg
+pangngalan;abaniko;fan;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\fan.jpg
+pangngalan;cellphone;cellphone;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\cellphone.jpg
+pangngalan;network;network;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\network.jpg
+pangngalan;kompyuter;computer;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\computer.jpg
+pangngalan;progama ng kompyuter;computer program;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\computer program.jpg
+pangngalan;laptop;laptop;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\laptop.jpg
+pangngalan;iskrín;screen;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\screen.jpg
+pangngalan;kamera;camera;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\camera.jpg
+pangngalan;telebisyón;television;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\television.jpg
+pangngalan;radyo;radio;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\radio.jpg
+pangngalan;ulo;head;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\head.jpg
+pangngalan;leég;neck;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\neck.jpg
+pangngalan;mukha;face;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\face.jpg
+pangngalan;balbas;beard;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\beard.jpg
+pangngalan;buhok;hair;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\hair.jpg
+pangngalan;mata;eye;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\eye.jpg
+pangngalan;bibig;mouth;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\mouth.jpg
+pangngalan;labì;lip;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\lip.jpg
+pangngalan;ilóng;nose;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\nose.jpg
+pangngalan;ngipin;tooth;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\tooth.jpg
+pangngalan;tainga;ear;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ear.jpg
+pangngalan;luhà;teardrop;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\teardrop.jpg
+pangngalan;dilà;tongue;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\tongue.jpg
+pangngalan;likod;back;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\back.jpg
+pangngalan;daliri sa paá;toe;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\toe.jpg
+pangngalan;daliri;finger;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\finger.jpg
+pangngalan;paá;foot;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\foot.jpg
+pangngalan;kamáy;hand;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\hand.jpg
+pangngalan;binti;leg;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\leg.jpg
+pangngalan;braso;arm;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\arm.jpg
+pangngalan;balikat;shoulder;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\shoulder.jpg
+pangngalan;puso;heart;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\heart.jpg
+pangngalan;dugo;blood;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\blood.jpg
+pangngalan;utak;brain;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\brain.jpg
+pangngalan;tuhod;knee;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\knee.jpg
+pangngalan;pawis;sweat;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sweat.jpg
+pangngalan;sakit;disease;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\disease.jpg
+pangngalan;tinik;fishbone;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\fishbone.jpg
+pangngalan;butó;bone;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\bone.jpg
+pangngalan;tinig;voice;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\voice.jpg
+pangngalan;balat;skin;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\skin.jpg
+pangngalan;katawan;body;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\body.jpg
+pangngalan;dagat;sea;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sea.jpg
+pangngalan;karagatán;ocean;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ocean.jpg
+pangngalan;ilog;river;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\river.jpg
+pangngalan;bundók;mountain;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\mountain.jpg
+pangngalan;ulan;rain;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\rain.jpg
+pangngalan;niyebe;snow;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\snow.jpg
+pangngalan;puno;tree;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\tree.jpg
+pangngalan;araw;sun;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sun.jpg
+pangngalan;buwan;moon;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\moon.jpg
+pangngalan;mundo;world;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\world.jpg
+pangngalan;gubat;forest;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\forest.jpg
+pangngalan;kalangítan;sky;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sky.jpg
+pangngalan;halaman;plant;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\plant.jpg
+pangngalan;hangin;wind;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\wind.jpg
+pangngalan;lupa;soil;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\soil.jpg
+pangngalan;bulaklak;flower;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\flower.jpg
+pangngalan;lambak;valley;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\valley.jpg
+pangngalan;ugat;root;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\root.jpg
+pangngalan;lawa;lake;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\lake.jpg
+pangngalan;bituín;star;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\star.jpg
+pangngalan;damò;grass;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\grass.jpg
+pangngalan;dahon;leaf;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\leaf.jpg
+pangngalan;hangin;air;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\air.jpg
+pangngalan;buhangin;sand;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sand.jpg
+pangngalan;tabíng-dagat;beach;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\beach.jpg
+pangngalan;alon;wave;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\wave.jpg
+pangngalan;sunog;fire;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\fire.jpg
+pangngalan;yelo;ice;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\ice.jpg
+pangngalan;isla;island;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\island.jpg
+pangngalan;buról;hill;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\hill.jpg
+pangngalan;init;heat;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\heat.jpg
+pangngalan;kalikasan;nature;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\nature.jpg
+pangngalan;salamín;glass;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\glass.jpg
+pangngalan;bakal;metal;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\metal.jpg
+pangngalan;plastik;plastic;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\plastic.jpg
+pangngalan;kahoy;wood;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\wood.jpg
+pangngalan;bató;stone;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\stone.jpg
+pangngalan;diyamante;diamond;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\diamond.jpg
+pangngalan;luwád;clay;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\clay.jpg
+pangngalan;alikabók;dust;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\dust.jpg
+pangngalan;gintô;gold;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\gold.jpg
+pangngalan;tansô;copper;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\copper.jpg
+pangngalan;pilak;silver;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\silver.jpg
+pangngalan;materyál;material;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\material.jpg
+pangngalan;metro;meter;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\meter.jpg
+pangngalan;sentimetro;centimeter;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\centimeter.jpg
+pangngalan;kilo;kilogram;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\kilogram.jpg
+pangngalan;pulgada;inch;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\inch.jpg
+pangngalan;piyé;foot measurement;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\foot measurement.jpg
+pangngalan;libra;pound;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pound.jpg
+pangngalan;kalahatì;half;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\half.jpg
+pangngalan;bilog;circle;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\circle.jpg
+pangngalan;parisukát;square;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\square.jpg
+pangngalan;temperatura;temperature;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\temperature.jpg
+pangngalan;petsa;date;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\date.jpg
+pangngalan;timbáng;weight;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\weight.jpg
+pangngalan;gilid;edge;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\edge.jpg
+pangngalan;kanto;corner;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\corner.jpg
+pangngalan;mapa;map;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\map.jpg
+pangngalan;punto;dot;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\dot.jpg
+pangngalan;katinig;consonant;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\consonant.jpg
+pangngalan;patinig;vowel;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\vowel.jpg
+pangngalan;ilaw;light;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\light.jpg
+pangngalan;tunóg;sound;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sound.jpg
+pangngalan;piraso;piece;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\piece.jpg
+pangngalan;pananakít;pain;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pain.jpg
+pangngalan;pinsalà;injury;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\injury.jpg
+pangngalan;butas;hole;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\hole.jpg
+pangngalan;larawan;image;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\image.jpg
+pangngalan;padrón;pattern;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pattern.jpg
+pangngalan;pangngalan;noun;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\noun.jpg
+pangngalan;pandiwa;verb;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\verb.jpg
+pangngalan;pang-urí;adjective;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\adjective.jpg
+pangngalan;gawî;direction;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\direction.jpg
+pangngalan;kapanahunan;season;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\season.jpg
+pangngalan;taón;year;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\year.jpg
+pangngalan;buwán;month;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\month.jpg
+pangngalan;linggó;week;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\week.jpg
+pangngalan;araw;day;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\day.jpg
+pangngalan;oras;time;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\time.jpg
+pangngalan;minuto;minute;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\minute.jpg
+pangngalan;segundo;second;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\second.jpg
+pangngalan;umaga;morning;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\morning.jpg
+pangngalan;hapon;afternoon;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\afternoon.jpg
+pangngalan;gabí;evening;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\evening.jpg
+tamang pangngalan;Diyos;God;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\God.jpg
+tamang pangngalan;daigdíg;Earth;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Earth.jpg
+tamang pangngalan;Hilagà;North;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\North.jpg
+tamang pangngalan;Timog;South;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\South.jpg
+tamang pangngalan;Silangan;East;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\East.jpg
+tamang pangngalan;Kanluran;West;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\West.jpg
+tamang pangngalan;Tag-aráw;Summer;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Summer.jpg
+tamang pangngalan;Tagsiból;Spring;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Spring.jpg
+tamang pangngalan;Taglamíg;Winter;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Winter.jpg
+tamang pangngalan;Taglagás;Fall;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Fall.jpg
+tamang pangngalan;Enero;January;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\January.jpg
+tamang pangngalan;Pebrero;February;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\February.jpg
+tamang pangngalan;Marso;March;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\March.jpg
+tamang pangngalan;Abríl;April;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\April.jpg
+tamang pangngalan;Mayo;May;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\May.jpg
+tamang pangngalan;Hunyo;June;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\June.jpg
+tamang pangngalan;Hulyo;July;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\July.jpg
+tamang pangngalan;Agosto;August;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\August.jpg
+tamang pangngalan;Setyembre;September;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\September.jpg
+tamang pangngalan;Oktubre;October;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\October.jpg
+tamang pangngalan;Nobyembre;November;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\November.jpg
+tamang pangngalan;Disyembre;December;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\December.jpg
+tamang pangngalan;Lunes;Monday;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Monday.jpg
+tamang pangngalan;Martės;Tuesday;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Tuesday.jpg
+tamang pangngalan;Miyérkoles;Wednesday;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Wednesday.jpg
+tamang pangngalan;Huwebes;Thursday;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Thursday.jpg
+tamang pangngalan;Biyernes;Friday;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Friday.jpg
+tamang pangngalan;Sábado;Saturday;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Saturday.jpg
+tamang pangngalan;Linggó;Sunday;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\Sunday.jpg
+kuláy;pulá;red;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\red.jpg
+kuláy;berde;green;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\green.jpg
+kuláy;asul;blue;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\blue.jpg
+kuláy;dilaw;yellow;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\yellow.jpg
+kuláy;kape;brown;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\brown.jpg
+kuláy;rosas;pink;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\pink.jpg
+kuláy;kahél;orange;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\orange.jpg
+kuláy;itím;black;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\black.jpg
+kuláy;putî;white;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\white.jpg
+kuláy;kúlay-abó;gray;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\gray.jpg
+relasyon;anák na lalaki;son;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\son.jpg
+relasyon;anák na babae;daughter;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\daughter.jpg
+relasyon;nanay;mother;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\mother.jpg
+relasyon;tatay;father;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\father.jpg
+relasyon;magulang;parent;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\parent.jpg
+relasyon;kapatid na lalaki;brother;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\brother.jpg
+relasyon;kapatid na babae;sister;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\sister.jpg
+relasyon;pamilya;family;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\family.jpg
+relasyon;lolo;grandfather;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\grandfather.jpg
+relasyon;lola;grandmother;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\grandmother.jpg
+relasyon;asawa;spouse;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\spouse.jpg
+relasyon;kapitbahay;neighbor;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\neighbor.jpg
+propesyon;harì;king;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\king.jpg
+propesyon;reyna;queen;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\queen.jpg
+propesyon;pangulo;president;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\president.jpg
+propesyon;gurò;teacher;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\teacher.jpg
+propesyon;estudyante;student;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\student.jpg
+propesyon;abogado;lawyer;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\lawyer.jpg
+propesyon;doktor;doctor;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\doctor.jpg
+propesyon;pasyente;patient;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\patient.jpg
+propesyon;weyter;waiter;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\waiter.jpg
+propesyon;kalihim;secretary;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\secretary.jpg
+propesyon;parì;priest;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\priest.jpg
+propesyon;pulís;police;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\police.jpg
+propesyon;hukbó;army;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\army.jpg
+propesyon;sundalo;soldier;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\soldier.jpg
+propesyon;artista;artist;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\artist.jpg
+propesyon;awtór;author;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\author.jpg
+propesyon;mánedyér;manager;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\manager.jpg
+propesyon;reporter;reporter;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\reporter.jpg
+propesyon;aktor;actor;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\actor.jpg
+kataga;oo;yes;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\yes.jpg
+kataga;hindi;no;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\no.jpg
+panghalip na aktor;ako;I;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\I.jpg
+panghalip na aktor;ka/ikaw;singular you;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\singular you.jpg
+panghalip na aktor;siya;he she it;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\he she it.jpg
+panghalip na aktor;kami;exclusive we;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\exclusive we.jpg
+panghalip na aktor;tayo;inclusive we;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\inclusive we.jpg
+panghalip na aktor;kayo;plural you;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\plural you.jpg
+panghalip na aktor;sila;they;\\wsl$\ArchWSL\home\simple\workspace\anki\decks\tagalog\words_1\images\they.jpg
