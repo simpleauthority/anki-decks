@@ -1,59 +1,3 @@
-numero;wala;zero
-numero;isa;one
-numero;dalawa;two
-numero;tatlo;three
-numero;apat;four
-numero;lima;five
-numero;anim;six
-numero;pito;seven
-numero;walo;eight
-numero;siyam;nine
-numero;sampu;ten
-numero;labing-isa;eleven
-numero;labindalawa;twelve
-numero;labintatlo;thirteen
-numero;labing-apat;fourteen
-numero;labinlima;fifteen
-numero;labing-anim;sixteen
-numero;labimpito;seventeen
-numero;labing-walo;eighteen
-numero;labinsiyam;nineteen
-numero;dalawampu;twenty
-numero;dalawampu't isa;twenty one
-numero;dalawampu't dalawa;twenty two
-numero;tatlumpu;thirty
-numero;tatlumpu't isa;thirty one
-numero;tatlumpu't dalawa;thirty two
-numero;apatnapu;forty
-numero;apatnapu't isa;forty one
-numero;apatnapu't dalawa;forty two
-numero;limampu;fifty
-numero;limampu't isa;fifty one
-numero;limampu't dalawa;fifty two
-numero;animnapu;sixty
-numero;animnapu't isa;sixty one
-numero;animnapu't dalawa;sixty two
-numero;pitumpu;seventy
-numero;pitumpu't isa;seventy one
-numero;pitumpu't dalawa;seventy two
-numero;walumpu;eighty
-numero;walumpu't isa;eighty one
-numero;walumpu't dalawa;eighty two
-numero;siyamnapu;ninety
-numero;siyamnapu't isa;ninety one
-numero;siyamnapu't dalawa;ninety two
-numero;isang daan;one hundred
-numero;isang daan at isa;one hundred one
-numero;isang daan at dalawa;one hundred two
-numero;isang daan at sampu;one hundred ten
-numero;isang daan at labing-isa;one hundred eleven
-numero;isang libo;one thousand
-numero;isang libo't isa;one thousand one
-numero;sampung libo;ten thousand
-numero;isang daang libo;one hundred thousand
-numero;isang milyon;one million
-numero;isang bilyon;one billion
-numero;numero;number
 pangngalan;aso;dog
 pangngalan;pusa;cat
 pangngalan;isda;fish
@@ -375,12 +319,12 @@ pangngalan;taón;year
 pangngalan;buwán;month
 pangngalan;linggó;week
 pangngalan;araw;day
-pangngalan;oras;time/hour
+pangngalan;oras;time
 pangngalan;minuto;minute
 pangngalan;segundo;second
 pangngalan;umaga;morning
 pangngalan;hapon;afternoon
-pangngalan;gabí;evening/night
+pangngalan;gabí;evening
 tamang pangngalan;Diyos;God
 tamang pangngalan;daigdíg;Earth
 tamang pangngalan;Hilagà;North
@@ -410,88 +354,9 @@ tamang pangngalan;Huwebes;Thursday
 tamang pangngalan;Biyernes;Friday
 tamang pangngalan;Sábado;Saturday
 tamang pangngalan;Linggó;Sunday
-pang-urí;itaás;top
-pang-urí;ilalim;bottom
-pang-urí;tabí;side
-pang-urí;haráp;front
-pang-urí;likód;back
-pang-urí;labás;outside
-pang-urí;loób;inside
-pang-urí;taás;up
-pang-urí;babâ;down
-pang-urí;kaliwâ;left
-pang-urí;kanan;right
-pang-urí;deretso;straight
-pang-urí;una;first
-pang-urí;pangalawá;second
-pang-urí;pang-atlo;third
-pang-urí;pang-apat;fourth
-pang-urí;panlima;fifth
-pang-urí;mahabà;long
-pang-urí;maiksî;short (length)
-pang-urí;matangkád;tall
-pang-urí;maliít;short/small/little
-pang-urí;malapad;wide (object)
-pang-urí;malawak;wide (space)
-pang-urí;makipot;narrow
-pang-urí;malakí;big/large
-pang-urí;mabagal;slow
-pang-urí;mabilís;fast
-pang-urí;mainit;hot/warm
-pang-urí;malamíg;cold/cool
-pang-urí;bago;new
-pang-urí;lumà;old (new)
-pang-urí;batà;young
-pang-urí;matandà;old (young)
-pang-urí;mabuti;good
-pang-urí;masamâ;bad
-pang-urí;basâ;wet
-pang-urí;tuyô;dry
-pang-urí;may sakít;sick
-pang-urí;malusog;healthy
-pang-urí;maingay;loud
-pang-urí;tahimik;quiet
-pang-urí;masayá;happy
-pang-urí;malungkót;sad
-pang-urí;maganda;beautiful
-pang-urí;pangit;ugly
-pang-urí;bingí;deaf
-pang-urí;bulág;blind
-pang-urí;mabaít;nice
-pang-urí;masamâ;mean
-pang-urí;mayaman;rich
-pang-urí;mahirap;poor
-pang-urí;makapál;thick
-pang-urí;payát;thin
-pang-urí;mahál;expensive
-pang-urí;mura;cheap
-pang-urí;patag;flat
-pang-urí;kurbado;curved
-pang-urí;lalaki;male
-pang-urí;babae;female
-pang-urí;masikíp;tight
-pang-urí;maluwág;loose
-pang-urí;mataás;high
-pang-urí;mababà;low
-pang-urí;malambót;soft
-pang-urí;matigás;hard
-pang-urí;malalim;deep
-pang-urí;mababaw;shallow
-pang-urí;malinis;clean
-pang-urí;marumí;dirty
-pang-urí;malakás;strong
-pang-urí;mahinà;weak
-pang-urí;patày;dead
-pang-urí;buhày;alive
-pang-urí;mabigát;heavy
-pang-urí;magaán;light (heavy)
-pang-urí;madilím;dark
-pang-urí;maliwanag;light (dark)
-pang-urí;nukleyár;nuclear
-pang-urí;sikát;famous
 kuláy;pulá;red
 kuláy;berde;green
-kuláy;asul;blue (light/dark)
+kuláy;asul;blue
 kuláy;dilaw;yellow
 kuláy;kape;brown
 kuláy;rosas;pink
@@ -509,7 +374,7 @@ relasyon;kapatid na babae;sister
 relasyon;pamilya;family
 relasyon;lolo;grandfather
 relasyon;lola;grandmother
-relasyon;asawa;husband/wife
+relasyon;asawa;spouse
 relasyon;kapitbahay;neighbor
 propesyon;harì;king
 propesyon;reyna;queen
@@ -533,9 +398,9 @@ propesyon;aktor;actor
 kataga;oo;yes
 kataga;hindi;no
 panghalip na aktor;ako;I
-panghalip na aktor;ka/ikaw;you (singular)
-panghalip na aktor;siya;he/she/it
-panghalip na aktor;kami;we (exclusive)
-panghalip na aktor;tayo;we (inclusive)
-panghalip na aktor;kayo;you (plural)
+panghalip na aktor;ka/ikaw;singular you
+panghalip na aktor;siya;he she it
+panghalip na aktor;kami;exclusive we
+panghalip na aktor;tayo;inclusive we
+panghalip na aktor;kayo;plural you
 panghalip na aktor;sila;they
