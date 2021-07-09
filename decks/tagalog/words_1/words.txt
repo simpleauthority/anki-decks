@@ -258,7 +258,7 @@ pangngalan;abaniko;fan
 pangngalan;cellphone;cellphone
 pangngalan;network;network
 pangngalan;kompyuter;computer
-pangngalan;progama;program (computer)
+pangngalan;progama ng kompyuter;computer program
 pangngalan;laptop;laptop
 pangngalan;iskrín;screen
 pangngalan;kamera;camera
@@ -275,7 +275,7 @@ pangngalan;labì;lip
 pangngalan;ilóng;nose
 pangngalan;ngipin;tooth
 pangngalan;tainga;ear
-pangngalan;luhà;tear (drop)
+pangngalan;luhà;teardrop
 pangngalan;dilà;tongue
 pangngalan;likod;back
 pangngalan;daliri sa paá;toe
@@ -310,7 +310,7 @@ pangngalan;gubat;forest
 pangngalan;kalangítan;sky
 pangngalan;halaman;plant
 pangngalan;hangin;wind
-pangngalan;lupa;soil/earth
+pangngalan;lupa;soil
 pangngalan;bulaklak;flower
 pangngalan;lambak;valley
 pangngalan;ugat;root
@@ -344,7 +344,7 @@ pangngalan;metro;meter
 pangngalan;sentimetro;centimeter
 pangngalan;kilo;kilogram
 pangngalan;pulgada;inch
-pangngalan;piyé;foot
+pangngalan;piyé;foot measurement
 pangngalan;libra;pound
 pangngalan;kalahatì;half
 pangngalan;bilog;circle
