@@ -141,7 +141,7 @@ pangngalan;karnéng-baboy;pork
 pangngalan;karnéng-baka;beef
 pangngalan;mansanas;apple
 pangngalan;saging;banana
-pangngalan;dalandán;orange
+pangngalan;dalandán;orange fruit
 pangngalan;lemón;lemon
 pangngalan;maís;corn
 pangngalan;kanin;rice
@@ -360,7 +360,7 @@ kuláy;asul;blue
 kuláy;dilaw;yellow
 kuláy;kape;brown
 kuláy;rosas;pink
-kuláy;kahél;orange
+kuláy;kahél;orange color
 kuláy;itím;black
 kuláy;putî;white
 kuláy;kúlay-abó;gray
