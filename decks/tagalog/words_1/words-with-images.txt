@@ -1,406 +1,405 @@
-pangngalan;aso;dog;tagalogwords1_dog.jpg
-pangngalan;pusa;cat;tagalogwords1_cat.jpg
-pangngalan;isda;fish;tagalogwords1_fish.jpg
-pangngalan;ibon;bird;tagalogwords1_bird.jpg
-pangngalan;baka;cow;tagalogwords1_cow.jpg
-pangngalan;baboy;pig;tagalogwords1_pig.jpg
-pangngalan;dagâ;mouse;tagalogwords1_mouse.jpg
-pangngalan;kabayo;horse;tagalogwords1_horse.jpg
-pangngalan;pakpák;wing;tagalogwords1_wing.jpg
-pangngalan;hayop;animal;tagalogwords1_animal.jpg
-pangngalan;tren;train;tagalogwords1_train.jpg
-pangngalan;eroplano;airplane;tagalogwords1_airplane.jpg
-pangngalan;kotse;car;tagalogwords1_car.jpg
-pangngalan;trak;truck;tagalogwords1_truck.jpg
-pangngalan;bisikleta;bicycle;tagalogwords1_bicycle.jpg
-pangngalan;bus;bus;tagalogwords1_bus.jpg
-pangngalan;bangka;boat;tagalogwords1_boat.jpg
-pangngalan;barko;ship;tagalogwords1_ship.jpg
-pangngalan;gulóng;tire;tagalogwords1_tire.jpg
-pangngalan;gasolina;gasoline;tagalogwords1_gasoline.jpg
-pangngalan;motór;engine;tagalogwords1_engine.jpg
-pangngalan;tiket (ng tren);ticket;tagalogwords1_ticket.jpg
-pangngalan;transportasyon;transportation;tagalogwords1_transportation.jpg
-pangngalan;lungsód;city;tagalogwords1_city.jpg
-pangngalan;bahay;house;tagalogwords1_house.jpg
-pangngalan;apartment;apartment;tagalogwords1_apartment.jpg
-pangngalan;daan;street;tagalogwords1_street.jpg
-pangngalan;páliparan;airport;tagalogwords1_airport.jpg
-pangngalan;istasyón ng tren;train station;tagalogwords1_train station.jpg
-pangngalan;tuláy;bridge;tagalogwords1_bridge.jpg
-pangngalan;otél;hotel;tagalogwords1_hotel.jpg
-pangngalan;restawrán;restaurant;tagalogwords1_restaurant.jpg
-pangngalan;bukid;farm;tagalogwords1_farm.jpg
-pangngalan;hukuman;court;tagalogwords1_court.jpg
-pangngalan;páaralán;school;tagalogwords1_school.jpg
-pangngalan;opisina;office;tagalogwords1_office.jpg
-pangngalan;kuwarto;room;tagalogwords1_room.jpg
-pangngalan;bayan;town;tagalogwords1_town.jpg
-pangngalan;pamantasan;university;tagalogwords1_university.jpg
-pangngalan;klub;club;tagalogwords1_club.jpg
-pangngalan;bar;bar;tagalogwords1_bar.jpg
-pangngalan;parké;park;tagalogwords1_park.jpg
-pangngalan;kampo;camp;tagalogwords1_camp.jpg
-pangngalan;tindahan;store;tagalogwords1_store.jpg
-pangngalan;teatro;theater;tagalogwords1_theater.jpg
-pangngalan;aklatan;library;tagalogwords1_library.jpg
-pangngalan;ospitál;hospital;tagalogwords1_hospital.jpg
-pangngalan;simbahan;church;tagalogwords1_church.jpg
-pangngalan;palengke;market;tagalogwords1_market.jpg
-pangngalan;bansâ;country;tagalogwords1_country.jpg
-pangngalan;gusalì;building;tagalogwords1_building.jpg
-pangngalan;lupà;ground;tagalogwords1_ground.jpg
-pangngalan;kalawakan;space;tagalogwords1_space.jpg
-pangngalan;bangko;bank;tagalogwords1_bank.jpg
-pangngalan;lugár;location;tagalogwords1_location.jpg
-pangngalan;sombrero;hat;tagalogwords1_hat.jpg
-pangngalan;bestida;dress;tagalogwords1_dress.jpg
-pangngalan;amerikana;suit;tagalogwords1_suit.jpg
-pangngalan;panlamig;sweater;tagalogwords1_sweater.jpg
-pangngalan;palda;skirt;tagalogwords1_skirt.jpg
-pangngalan;kamiseta;shirt;tagalogwords1_shirt.jpg
-pangngalan;t-shirt;t-shirt;tagalogwords1_t-shirt.jpg
-pangngalan;pantalón;pants;tagalogwords1_pants.jpg
-pangngalan;sapatos;shoes;tagalogwords1_shoes.jpg
-pangngalan;bulsá;pocket;tagalogwords1_pocket.jpg
-pangngalan;mantsa;stain;tagalogwords1_stain.jpg
-pangngalan;damít;clothing;tagalogwords1_clothing.jpg
-pangngalan;kúlay;color;tagalogwords1_color.jpg
-pangngalan;sanggól;baby;tagalogwords1_baby.jpg
-pangngalan;lalaki;man;tagalogwords1_man.jpg
-pangngalan;babae;woman;tagalogwords1_woman.jpg
-pangngalan;batang lalaki;boy;tagalogwords1_boy.jpg
-pangngalan;batang babae;girl;tagalogwords1_girl.jpg
-pangngalan;batà;child;tagalogwords1_child.jpg
-pangngalan;gulang;adult;tagalogwords1_adult.jpg
-pangngalan;pantao;human;tagalogwords1_human.jpg
-pangngalan;kaibigan;friend;tagalogwords1_friend.jpg
-pangngalan;biktima;victim;tagalogwords1_victim.jpg
-pangngalan;manlaláro;player;tagalogwords1_player.jpg
-pangngalan;taga-hangà;fanatic;tagalogwords1_fanatic.jpg
-pangngalan;karamihan;crowd;tagalogwords1_crowd.jpg
-pangngalan;tao;person;tagalogwords1_person.jpg
-pangngalan;trabaho;job;tagalogwords1_job.jpg
-pangngalan;relihiyón;religion;tagalogwords1_religion.jpg
-pangngalan;paraiso;heaven;tagalogwords1_heaven.jpg
-pangngalan;impyerno;hell;tagalogwords1_hell.jpg
-pangngalan;pagkamatáy;death;tagalogwords1_death.jpg
-pangngalan;gamót;medicine;tagalogwords1_medicine.jpg
-pangngalan;pera;money;tagalogwords1_money.jpg
-pangngalan;dolyar;dollar;tagalogwords1_dollar.jpg
-pangngalan;utang;bill;tagalogwords1_bill.jpg
-pangngalan;buhay may asawa;marriage;tagalogwords1_marriage.jpg
-pangngalan;kasál;wedding;tagalogwords1_wedding.jpg
-pangngalan;koponán;team;tagalogwords1_team.jpg
-pangngalan;lahì;ethnicity;tagalogwords1_ethnicity.jpg
-pangngalan;pagtatalik;sex;tagalogwords1_sex.jpg
-pangngalan;kasarián;gender;tagalogwords1_gender.jpg
-pangngalan;pagpatáy;murder;tagalogwords1_murder.jpg
-pangngalan;bilangguan;prison;tagalogwords1_prison.jpg
-pangngalan;teknolohiya;technology;tagalogwords1_technology.jpg
-pangngalan;enerhiya;energy;tagalogwords1_energy.jpg
-pangngalan;digmâ;war;tagalogwords1_war.jpg
-pangngalan;kapayapaan;peace;tagalogwords1_peace.jpg
-pangngalan;salakay;attack;tagalogwords1_attack.jpg
-pangngalan;eleksyon;election;tagalogwords1_election.jpg
-pangngalan;mágasin;magazine;tagalogwords1_magazine.jpg
-pangngalan;peryódikó;newspaper;tagalogwords1_newspaper.jpg
-pangngalan;lason;poison;tagalogwords1_poison.jpg
-pangngalan;baríl;gun;tagalogwords1_gun.jpg
-pangngalan;palakasan;sport;tagalogwords1_sport.jpg
-pangngalan;takbuhan;race;tagalogwords1_race.jpg
-pangngalan;ehersisyo;exercise;tagalogwords1_exercise.jpg
-pangngalan;bola;ball;tagalogwords1_ball.jpg
-pangngalan;larô;game;tagalogwords1_game.jpg
-pangngalan;presyo;price;tagalogwords1_price.jpg
-pangngalan;kontrata;contract;tagalogwords1_contract.jpg
-pangngalan;droga;drug;tagalogwords1_drug.jpg
-pangngalan;karátulá;sign;tagalogwords1_sign.jpg
-pangngalan;aghám;science;tagalogwords1_science.jpg
-pangngalan;banda;band;tagalogwords1_band.jpg
-pangngalan;awit;song;tagalogwords1_song.jpg
-pangngalan;instrumento;instrument;tagalogwords1_instrument.jpg
-pangngalan;músika;music;tagalogwords1_music.jpg
-pangngalan;pelíkulá;movie;tagalogwords1_movie.jpg
-pangngalan;arte;art;tagalogwords1_art.jpg
-pangngalan;kape;coffee;tagalogwords1_coffee.jpg
-pangngalan;tsaá;tea;tagalogwords1_tea.jpg
-pangngalan;alak;wine;tagalogwords1_wine.jpg
-pangngalan;serbesa;beer;tagalogwords1_beer.jpg
-pangngalan;dyus;juice;tagalogwords1_juice.jpg
-pangngalan;tubig;water;tagalogwords1_water.jpg
-pangngalan;gatas;milk;tagalogwords1_milk.jpg
-pangngalan;inumin;beverage;tagalogwords1_beverage.jpg
-pangngalan;itlog;egg;tagalogwords1_egg.jpg
-pangngalan;keso;cheese;tagalogwords1_cheese.jpg
-pangngalan;tinapay;bread;tagalogwords1_bread.jpg
-pangngalan;sopas;soup;tagalogwords1_soup.jpg
-pangngalan;keyk;cake;tagalogwords1_cake.jpg
-pangngalan;manók;chicken;tagalogwords1_chicken.jpg
-pangngalan;karnéng-baboy;pork;tagalogwords1_pork.jpg
-pangngalan;karnéng-baka;beef;tagalogwords1_beef.jpg
-pangngalan;mansanas;apple;tagalogwords1_apple.jpg
-pangngalan;saging;banana;tagalogwords1_banana.jpg
-pangngalan;dalandán;orange fruit;tagalogwords1_orange fruit.jpg
-pangngalan;lemón;lemon;tagalogwords1_lemon.jpg
-pangngalan;maís;corn;tagalogwords1_corn.jpg
-pangngalan;kanin;rice;tagalogwords1_rice.jpg
-pangngalan;mantikà;oil;tagalogwords1_oil.jpg
-pangngalan;butó;seed;tagalogwords1_seed.jpg
-pangngalan;kutsilyo;knife;tagalogwords1_knife.jpg
-pangngalan;kutsara;spoon;tagalogwords1_spoon.jpg
-pangngalan;tinidór;fork;tagalogwords1_fork.jpg
-pangngalan;plato;plate;tagalogwords1_plate.jpg
-pangngalan;tasa;cup;tagalogwords1_cup.jpg
-pangngalan;almusál;breakfast;tagalogwords1_breakfast.jpg
-pangngalan;tanghalian;lunch;tagalogwords1_lunch.jpg
-pangngalan;hapunan;dinner;tagalogwords1_dinner.jpg
-pangngalan;asukal;sugar;tagalogwords1_sugar.jpg
-pangngalan;asín;salt;tagalogwords1_salt.jpg
-pangngalan;botelya;bottle;tagalogwords1_bottle.jpg
-pangngalan;pagkain;food;tagalogwords1_food.jpg
-pangngalan;mesa;table;tagalogwords1_table.jpg
-pangngalan;upuan;chair;tagalogwords1_chair.jpg
-pangngalan;kama;bed;tagalogwords1_bed.jpg
-pangngalan;pangarap;ambition;tagalogwords1_ambition.jpg
-pangngalan;panaginip;dream;tagalogwords1_dream.jpg
-pangngalan;bintana;window;tagalogwords1_window.jpg
-pangngalan;pintô;door;tagalogwords1_door.jpg
-pangngalan;kuwarto;bedroom;tagalogwords1_bedroom.jpg
-pangngalan;kusina;kitchen;tagalogwords1_kitchen.jpg
-pangngalan;palikuran/kubeta/CR;bathroom;tagalogwords1_bathroom.jpg
-pangngalan;lapis;pencil;tagalogwords1_pencil.jpg
-pangngalan;bolpen;pen;tagalogwords1_pen.jpg
-pangngalan;litrato;photograph;tagalogwords1_photograph.jpg
-pangngalan;sabón;soap;tagalogwords1_soap.jpg
-pangngalan;aklat;book;tagalogwords1_book.jpg
-pangngalan;páhína;page;tagalogwords1_page.jpg
-pangngalan;susì;key;tagalogwords1_key.jpg
-pangngalan;pintura;paint;tagalogwords1_paint.jpg
-pangngalan;titik;letter;tagalogwords1_letter.jpg
-pangngalan;nota;note;tagalogwords1_note.jpg
-pangngalan;padér;wall;tagalogwords1_wall.jpg
-pangngalan;papel;paper;tagalogwords1_paper.jpg
-pangngalan;sahíg;floor;tagalogwords1_floor.jpg
-pangngalan;kísame;ceiling;tagalogwords1_ceiling.jpg
-pangngalan;bubóng;roof;tagalogwords1_roof.jpg
-pangngalan;languyan;pool;tagalogwords1_pool.jpg
-pangngalan;kandado;lock;tagalogwords1_lock.jpg
-pangngalan;telepono;telephone;tagalogwords1_telephone.jpg
-pangngalan;hardín;garden;tagalogwords1_garden.jpg
-pangngalan;bakuran;yard;tagalogwords1_yard.jpg
-pangngalan;karayom;needle;tagalogwords1_needle.jpg
-pangngalan;supot;bag;tagalogwords1_bag.jpg
-pangngalan;kahon;box;tagalogwords1_box.jpg
-pangngalan;regalo;gift;tagalogwords1_gift.jpg
-pangngalan;baraha;card;tagalogwords1_card.jpg
-pangngalan;kulilíng;ring;tagalogwords1_ring.jpg
-pangngalan;kasangkapan;tool;tagalogwords1_tool.jpg
-pangngalan;orasán;clock;tagalogwords1_clock.jpg
-pangngalan;ilawán;lamp;tagalogwords1_lamp.jpg
-pangngalan;abaniko;fan;tagalogwords1_fan.jpg
-pangngalan;cellphone;cellphone;tagalogwords1_cellphone.jpg
-pangngalan;network;network;tagalogwords1_network.jpg
-pangngalan;kompyuter;computer;tagalogwords1_computer.jpg
-pangngalan;progama ng kompyuter;computer program;tagalogwords1_computer program.jpg
-pangngalan;laptop;laptop;tagalogwords1_laptop.jpg
-pangngalan;iskrín;screen;tagalogwords1_screen.jpg
-pangngalan;kamera;camera;tagalogwords1_camera.jpg
-pangngalan;telebisyón;television;tagalogwords1_television.jpg
-pangngalan;radyo;radio;tagalogwords1_radio.jpg
-pangngalan;ulo;head;tagalogwords1_head.jpg
-pangngalan;leég;neck;tagalogwords1_neck.jpg
-pangngalan;mukha;face;tagalogwords1_face.jpg
-pangngalan;balbas;beard;tagalogwords1_beard.jpg
-pangngalan;buhok;hair;tagalogwords1_hair.jpg
-pangngalan;mata;eye;tagalogwords1_eye.jpg
-pangngalan;bibig;mouth;tagalogwords1_mouth.jpg
-pangngalan;labì;lip;tagalogwords1_lip.jpg
-pangngalan;ilóng;nose;tagalogwords1_nose.jpg
-pangngalan;ngipin;tooth;tagalogwords1_tooth.jpg
-pangngalan;tainga;ear;tagalogwords1_ear.jpg
-pangngalan;luhà;teardrop;tagalogwords1_teardrop.jpg
-pangngalan;dilà;tongue;tagalogwords1_tongue.jpg
-pangngalan;likod;back;tagalogwords1_back.jpg
-pangngalan;daliri sa paá;toe;tagalogwords1_toe.jpg
-pangngalan;daliri;finger;tagalogwords1_finger.jpg
-pangngalan;paá;foot;tagalogwords1_foot.jpg
-pangngalan;kamáy;hand;tagalogwords1_hand.jpg
-pangngalan;binti;leg;tagalogwords1_leg.jpg
-pangngalan;braso;arm;tagalogwords1_arm.jpg
-pangngalan;balikat;shoulder;tagalogwords1_shoulder.jpg
-pangngalan;puso;heart;tagalogwords1_heart.jpg
-pangngalan;dugo;blood;tagalogwords1_blood.jpg
-pangngalan;utak;brain;tagalogwords1_brain.jpg
-pangngalan;tuhod;knee;tagalogwords1_knee.jpg
-pangngalan;pawis;sweat;tagalogwords1_sweat.jpg
-pangngalan;sakit;disease;tagalogwords1_disease.jpg
-pangngalan;tinik;fishbone;tagalogwords1_fishbone.jpg
-pangngalan;butó;bone;tagalogwords1_bone.jpg
-pangngalan;tinig;voice;tagalogwords1_voice.jpg
-pangngalan;balat;skin;tagalogwords1_skin.jpg
-pangngalan;katawan;body;tagalogwords1_body.jpg
-pangngalan;dagat;sea;tagalogwords1_sea.jpg
-pangngalan;karagatán;ocean;tagalogwords1_ocean.jpg
-pangngalan;ilog;river;tagalogwords1_river.jpg
-pangngalan;bundók;mountain;tagalogwords1_mountain.jpg
-pangngalan;ulan;rain;tagalogwords1_rain.jpg
-pangngalan;niyebe;snow;tagalogwords1_snow.jpg
-pangngalan;puno;tree;tagalogwords1_tree.jpg
-pangngalan;araw;sun;tagalogwords1_sun.jpg
-pangngalan;buwan;moon;tagalogwords1_moon.jpg
-pangngalan;mundo;world;tagalogwords1_world.jpg
-pangngalan;gubat;forest;tagalogwords1_forest.jpg
-pangngalan;kalangítan;sky;tagalogwords1_sky.jpg
-pangngalan;halaman;plant;tagalogwords1_plant.jpg
-pangngalan;hangin;wind;tagalogwords1_wind.jpg
-pangngalan;lupa;soil;tagalogwords1_soil.jpg
-pangngalan;bulaklak;flower;tagalogwords1_flower.jpg
-pangngalan;lambak;valley;tagalogwords1_valley.jpg
-pangngalan;ugat;root;tagalogwords1_root.jpg
-pangngalan;lawa;lake;tagalogwords1_lake.jpg
-pangngalan;bituín;star;tagalogwords1_star.jpg
-pangngalan;damò;grass;tagalogwords1_grass.jpg
-pangngalan;dahon;leaf;tagalogwords1_leaf.jpg
-pangngalan;hangin;air;tagalogwords1_air.jpg
-pangngalan;buhangin;sand;tagalogwords1_sand.jpg
-pangngalan;tabíng-dagat;beach;tagalogwords1_beach.jpg
-pangngalan;alon;wave;tagalogwords1_wave.jpg
-pangngalan;sunog;fire;tagalogwords1_fire.jpg
-pangngalan;yelo;ice;tagalogwords1_ice.jpg
-pangngalan;isla;island;tagalogwords1_island.jpg
-pangngalan;buról;hill;tagalogwords1_hill.jpg
-pangngalan;init;heat;tagalogwords1_heat.jpg
-pangngalan;kalikasan;nature;tagalogwords1_nature.jpg
-pangngalan;salamín;glass;tagalogwords1_glass.jpg
-pangngalan;bakal;metal;tagalogwords1_metal.jpg
-pangngalan;plastik;plastic;tagalogwords1_plastic.jpg
-pangngalan;kahoy;wood;tagalogwords1_wood.jpg
-pangngalan;bató;stone;tagalogwords1_stone.jpg
-pangngalan;diyamante;diamond;tagalogwords1_diamond.jpg
-pangngalan;luwád;clay;tagalogwords1_clay.jpg
-pangngalan;alikabók;dust;tagalogwords1_dust.jpg
-pangngalan;gintô;gold;tagalogwords1_gold.jpg
-pangngalan;tansô;copper;tagalogwords1_copper.jpg
-pangngalan;pilak;silver;tagalogwords1_silver.jpg
-pangngalan;materyál;material;tagalogwords1_material.jpg
-pangngalan;metro;meter;tagalogwords1_meter.jpg
-pangngalan;sentimetro;centimeter;tagalogwords1_centimeter.jpg
-pangngalan;kilo;kilogram;tagalogwords1_kilogram.jpg
-pangngalan;pulgada;inch;tagalogwords1_inch.jpg
-pangngalan;piyé;foot measurement;tagalogwords1_foot measurement.jpg
-pangngalan;libra;pound;tagalogwords1_pound.jpg
-pangngalan;kalahatì;half;tagalogwords1_half.jpg
-pangngalan;bilog;circle;tagalogwords1_circle.jpg
-pangngalan;parisukát;square;tagalogwords1_square.jpg
-pangngalan;temperatura;temperature;tagalogwords1_temperature.jpg
-pangngalan;petsa;date;tagalogwords1_date.jpg
-pangngalan;timbáng;weight;tagalogwords1_weight.jpg
-pangngalan;gilid;edge;tagalogwords1_edge.jpg
-pangngalan;kanto;corner;tagalogwords1_corner.jpg
-pangngalan;mapa;map;tagalogwords1_map.jpg
-pangngalan;punto;dot;tagalogwords1_dot.jpg
-pangngalan;katinig;consonant;tagalogwords1_consonant.jpg
-pangngalan;patinig;vowel;tagalogwords1_vowel.jpg
-pangngalan;ilaw;light;tagalogwords1_light.jpg
-pangngalan;tunóg;sound;tagalogwords1_sound.jpg
-pangngalan;piraso;piece;tagalogwords1_piece.jpg
-pangngalan;pananakít;pain;tagalogwords1_pain.jpg
-pangngalan;pinsalà;injury;tagalogwords1_injury.jpg
-pangngalan;butas;hole;tagalogwords1_hole.jpg
-pangngalan;larawan;image;tagalogwords1_image.jpg
-pangngalan;padrón;pattern;tagalogwords1_pattern.jpg
-pangngalan;pangngalan;noun;tagalogwords1_noun.jpg
-pangngalan;pandiwa;verb;tagalogwords1_verb.jpg
-pangngalan;pang-urí;adjective;tagalogwords1_adjective.jpg
-pangngalan;gawî;direction;tagalogwords1_direction.jpg
-pangngalan;kapanahunan;season;tagalogwords1_season.jpg
-pangngalan;taón;year;tagalogwords1_year.jpg
-pangngalan;buwán;month;tagalogwords1_month.jpg
-pangngalan;linggó;week;tagalogwords1_week.jpg
-pangngalan;araw;day;tagalogwords1_day.jpg
-pangngalan;oras;time;tagalogwords1_time.jpg
-pangngalan;minuto;minute;tagalogwords1_minute.jpg
-pangngalan;segundo;second;tagalogwords1_second.jpg
-pangngalan;umaga;morning;tagalogwords1_morning.jpg
-pangngalan;hapon;afternoon;tagalogwords1_afternoon.jpg
-pangngalan;gabí;evening;tagalogwords1_evening.jpg
-tamang pangngalan;Diyos;God;tagalogwords1_God.jpg
-tamang pangngalan;daigdíg;Earth;tagalogwords1_Earth.jpg
-tamang pangngalan;Hilagà;North;tagalogwords1_North.jpg
-tamang pangngalan;Timog;South;tagalogwords1_South.jpg
-tamang pangngalan;Silangan;East;tagalogwords1_East.jpg
-tamang pangngalan;Kanluran;West;tagalogwords1_West.jpg
-tamang pangngalan;Tag-aráw;Summer;tagalogwords1_Summer.jpg
-tamang pangngalan;Tagsiból;Spring;tagalogwords1_Spring.jpg
-tamang pangngalan;Taglamíg;Winter;tagalogwords1_Winter.jpg
-tamang pangngalan;Taglagás;Fall;tagalogwords1_Fall.jpg
-tamang pangngalan;Enero;January;tagalogwords1_January.jpg
-tamang pangngalan;Pebrero;February;tagalogwords1_February.jpg
-tamang pangngalan;Marso;March;tagalogwords1_March.jpg
-tamang pangngalan;Abríl;April;tagalogwords1_April.jpg
-tamang pangngalan;Mayo;May;tagalogwords1_May.jpg
-tamang pangngalan;Hunyo;June;tagalogwords1_June.jpg
-tamang pangngalan;Hulyo;July;tagalogwords1_July.jpg
-tamang pangngalan;Agosto;August;tagalogwords1_August.jpg
-tamang pangngalan;Setyembre;September;tagalogwords1_September.jpg
-tamang pangngalan;Oktubre;October;tagalogwords1_October.jpg
-tamang pangngalan;Nobyembre;November;tagalogwords1_November.jpg
-tamang pangngalan;Disyembre;December;tagalogwords1_December.jpg
-tamang pangngalan;Lunes;Monday;tagalogwords1_Monday.jpg
-tamang pangngalan;Martės;Tuesday;tagalogwords1_Tuesday.jpg
-tamang pangngalan;Miyérkoles;Wednesday;tagalogwords1_Wednesday.jpg
-tamang pangngalan;Huwebes;Thursday;tagalogwords1_Thursday.jpg
-tamang pangngalan;Biyernes;Friday;tagalogwords1_Friday.jpg
-tamang pangngalan;Sábado;Saturday;tagalogwords1_Saturday.jpg
-tamang pangngalan;Linggó;Sunday;tagalogwords1_Sunday.jpg
-kuláy;pulá;red;tagalogwords1_red.jpg
-kuláy;berde;green;tagalogwords1_green.jpg
-kuláy;asul;blue;tagalogwords1_blue.jpg
-kuláy;dilaw;yellow;tagalogwords1_yellow.jpg
-kuláy;kape;brown;tagalogwords1_brown.jpg
-kuláy;rosas;pink;tagalogwords1_pink.jpg
-kuláy;kahél;orange color;tagalogwords1_orange color.jpg
-kuláy;itím;black;tagalogwords1_black.jpg
-kuláy;putî;white;tagalogwords1_white.jpg
-kuláy;kúlay-abó;gray;tagalogwords1_gray.jpg
-relasyon;anák na lalaki;son;tagalogwords1_son.jpg
-relasyon;anák na babae;daughter;tagalogwords1_daughter.jpg
-relasyon;nanay;mother;tagalogwords1_mother.jpg
-relasyon;tatay;father;tagalogwords1_father.jpg
-relasyon;magulang;parent;tagalogwords1_parent.jpg
-relasyon;kapatid na lalaki;brother;tagalogwords1_brother.jpg
-relasyon;kapatid na babae;sister;tagalogwords1_sister.jpg
-relasyon;pamilya;family;tagalogwords1_family.jpg
-relasyon;lolo;grandfather;tagalogwords1_grandfather.jpg
-relasyon;lola;grandmother;tagalogwords1_grandmother.jpg
-relasyon;asawa;spouse;tagalogwords1_spouse.jpg
-relasyon;kapitbahay;neighbor;tagalogwords1_neighbor.jpg
-propesyon;harì;king;tagalogwords1_king.jpg
-propesyon;reyna;queen;tagalogwords1_queen.jpg
-propesyon;pangulo;president;tagalogwords1_president.jpg
-propesyon;gurò;teacher;tagalogwords1_teacher.jpg
-propesyon;estudyante;student;tagalogwords1_student.jpg
-propesyon;abogado;lawyer;tagalogwords1_lawyer.jpg
-propesyon;doktor;doctor;tagalogwords1_doctor.jpg
-propesyon;pasyente;patient;tagalogwords1_patient.jpg
-propesyon;weyter;waiter;tagalogwords1_waiter.jpg
-propesyon;kalihim;secretary;tagalogwords1_secretary.jpg
-propesyon;parì;priest;tagalogwords1_priest.jpg
-propesyon;pulís;police;tagalogwords1_police.jpg
-propesyon;hukbó;army;tagalogwords1_army.jpg
-propesyon;sundalo;soldier;tagalogwords1_soldier.jpg
-propesyon;artista;artist;tagalogwords1_artist.jpg
-propesyon;awtór;author;tagalogwords1_author.jpg
-propesyon;mánedyér;manager;tagalogwords1_manager.jpg
-propesyon;reporter;reporter;tagalogwords1_reporter.jpg
-propesyon;aktor;actor;tagalogwords1_actor.jpg
-kataga;oo;yes;tagalogwords1_yes.jpg
-kataga;hindi;no;tagalogwords1_no.jpg
-panghalip na aktor;ako;I;tagalogwords1_I.jpg
-panghalip na aktor;ka/ikaw;singular you;tagalogwords1_singular you.jpg
-panghalip na aktor;siya;he she it;tagalogwords1_he she it.jpg
-panghalip na aktor;kami;exclusive we;tagalogwords1_exclusive we.jpg
-panghalip na aktor;tayo;inclusive we;tagalogwords1_inclusive we.jpg
-panghalip na aktor;kayo;plural you;tagalogwords1_plural you.jpg
-panghalip na aktor;sila;they;tagalogwords1_they.jpg
+pangngalan;aso;dog;<img src="_tagalogwords1_dog.jpg"/>
+pangngalan;pusa;cat;<img src="_tagalogwords1_cat.jpg"/>
+pangngalan;isda;fish;<img src="_tagalogwords1_fish.jpg"/>
+pangngalan;ibon;bird;<img src="_tagalogwords1_bird.jpg"/>
+pangngalan;baka;cow;<img src="_tagalogwords1_cow.jpg"/>
+pangngalan;baboy;pig;<img src="_tagalogwords1_pig.jpg"/>
+pangngalan;dagâ;mouse;<img src="_tagalogwords1_mouse.jpg"/>
+pangngalan;kabayo;horse;<img src="_tagalogwords1_horse.jpg"/>
+pangngalan;pakpák;wing;<img src="_tagalogwords1_wing.jpg"/>
+pangngalan;hayop;animal;<img src="_tagalogwords1_animal.jpg"/>
+pangngalan;tren;train;<img src="_tagalogwords1_train.jpg"/>
+pangngalan;eroplano;airplane;<img src="_tagalogwords1_airplane.jpg"/>
+pangngalan;kotse;car;<img src="_tagalogwords1_car.jpg"/>
+pangngalan;trak;truck;<img src="_tagalogwords1_truck.jpg"/>
+pangngalan;bisikleta;bicycle;<img src="_tagalogwords1_bicycle.jpg"/>
+pangngalan;bus;bus;<img src="_tagalogwords1_bus.jpg"/>
+pangngalan;bangka;boat;<img src="_tagalogwords1_boat.jpg"/>
+pangngalan;barko;ship;<img src="_tagalogwords1_ship.jpg"/>
+pangngalan;gulóng;tire;<img src="_tagalogwords1_tire.jpg"/>
+pangngalan;gasolina;gasoline;<img src="_tagalogwords1_gasoline.jpg"/>
+pangngalan;motór;engine;<img src="_tagalogwords1_engine.jpg"/>
+pangngalan;tiket (ng tren);ticket;<img src="_tagalogwords1_ticket.jpg"/>
+pangngalan;transportasyon;transportation;<img src="_tagalogwords1_transportation.jpg"/>
+pangngalan;lungsód;city;<img src="_tagalogwords1_city.jpg"/>
+pangngalan;bahay;house;<img src="_tagalogwords1_house.jpg"/>
+pangngalan;apartment;apartment;<img src="_tagalogwords1_apartment.jpg"/>
+pangngalan;daan;street;<img src="_tagalogwords1_street.jpg"/>
+pangngalan;páliparan;airport;<img src="_tagalogwords1_airport.jpg"/>
+pangngalan;istasyón ng tren;train station;<img src="_tagalogwords1_train station.jpg"/>
+pangngalan;tuláy;bridge;<img src="_tagalogwords1_bridge.jpg"/>
+pangngalan;otél;hotel;<img src="_tagalogwords1_hotel.jpg"/>
+pangngalan;restawrán;restaurant;<img src="_tagalogwords1_restaurant.jpg"/>
+pangngalan;bukid;farm;<img src="_tagalogwords1_farm.jpg"/>
+pangngalan;hukuman;court;<img src="_tagalogwords1_court.jpg"/>
+pangngalan;páaralán;school;<img src="_tagalogwords1_school.jpg"/>
+pangngalan;opisina;office;<img src="_tagalogwords1_office.jpg"/>
+pangngalan;kuwarto;room;<img src="_tagalogwords1_room.jpg"/>
+pangngalan;bayan;town;<img src="_tagalogwords1_town.jpg"/>
+pangngalan;pamantasan;university;<img src="_tagalogwords1_university.jpg"/>
+pangngalan;klub;club;<img src="_tagalogwords1_club.jpg"/>
+pangngalan;bar;bar;<img src="_tagalogwords1_bar.jpg"/>
+pangngalan;parké;park;<img src="_tagalogwords1_park.jpg"/>
+pangngalan;kampo;camp;<img src="_tagalogwords1_camp.jpg"/>
+pangngalan;tindahan;store;<img src="_tagalogwords1_store.jpg"/>
+pangngalan;teatro;theater;<img src="_tagalogwords1_theater.jpg"/>
+pangngalan;aklatan;library;<img src="_tagalogwords1_library.jpg"/>
+pangngalan;ospitál;hospital;<img src="_tagalogwords1_hospital.jpg"/>
+pangngalan;simbahan;church;<img src="_tagalogwords1_church.jpg"/>
+pangngalan;palengke;market;<img src="_tagalogwords1_market.jpg"/>
+pangngalan;bansâ;country;<img src="_tagalogwords1_country.jpg"/>
+pangngalan;gusalì;building;<img src="_tagalogwords1_building.jpg"/>
+pangngalan;lupà;ground;<img src="_tagalogwords1_ground.jpg"/>
+pangngalan;kalawakan;space;<img src="_tagalogwords1_space.jpg"/>
+pangngalan;bangko;bank;<img src="_tagalogwords1_bank.jpg"/>
+pangngalan;lugár;location;<img src="_tagalogwords1_location.jpg"/>
+pangngalan;sombrero;hat;<img src="_tagalogwords1_hat.jpg"/>
+pangngalan;bestida;dress;<img src="_tagalogwords1_dress.jpg"/>
+pangngalan;amerikana;suit;<img src="_tagalogwords1_suit.jpg"/>
+pangngalan;panlamig;sweater;<img src="_tagalogwords1_sweater.jpg"/>
+pangngalan;palda;skirt;<img src="_tagalogwords1_skirt.jpg"/>
+pangngalan;kamiseta;shirt;<img src="_tagalogwords1_shirt.jpg"/>
+pangngalan;t-shirt;t-shirt;<img src="_tagalogwords1_t-shirt.jpg"/>
+pangngalan;pantalón;pants;<img src="_tagalogwords1_pants.jpg"/>
+pangngalan;sapatos;shoes;<img src="_tagalogwords1_shoes.jpg"/>
+pangngalan;bulsá;pocket;<img src="_tagalogwords1_pocket.jpg"/>
+pangngalan;mantsa;stain;<img src="_tagalogwords1_stain.jpg"/>
+pangngalan;damít;clothing;<img src="_tagalogwords1_clothing.jpg"/>
+pangngalan;kúlay;color;<img src="_tagalogwords1_color.jpg"/>
+pangngalan;sanggól;baby;<img src="_tagalogwords1_baby.jpg"/>
+pangngalan;lalaki;man;<img src="_tagalogwords1_man.jpg"/>
+pangngalan;babae;woman;<img src="_tagalogwords1_woman.jpg"/>
+pangngalan;batang lalaki;boy;<img src="_tagalogwords1_boy.jpg"/>
+pangngalan;batang babae;girl;<img src="_tagalogwords1_girl.jpg"/>
+pangngalan;batà;child;<img src="_tagalogwords1_child.jpg"/>
+pangngalan;gulang;adult;<img src="_tagalogwords1_adult.jpg"/>
+pangngalan;kaibigan;friend;<img src="_tagalogwords1_friend.jpg"/>
+pangngalan;biktima;victim;<img src="_tagalogwords1_victim.jpg"/>
+pangngalan;manlaláro;player;<img src="_tagalogwords1_player.jpg"/>
+pangngalan;taga-hangà;fanatic;<img src="_tagalogwords1_fanatic.jpg"/>
+pangngalan;karamihan;crowd;<img src="_tagalogwords1_crowd.jpg"/>
+pangngalan;tao;person;<img src="_tagalogwords1_person.jpg"/>
+pangngalan;trabaho;job;<img src="_tagalogwords1_job.jpg"/>
+pangngalan;relihiyón;religion;<img src="_tagalogwords1_religion.jpg"/>
+pangngalan;paraiso;heaven;<img src="_tagalogwords1_heaven.jpg"/>
+pangngalan;impyerno;hell;<img src="_tagalogwords1_hell.jpg"/>
+pangngalan;pagkamatáy;death;<img src="_tagalogwords1_death.jpg"/>
+pangngalan;gamót;medicine;<img src="_tagalogwords1_medicine.jpg"/>
+pangngalan;pera;money;<img src="_tagalogwords1_money.jpg"/>
+pangngalan;dolyar;dollar;<img src="_tagalogwords1_dollar.jpg"/>
+pangngalan;utang;bill;<img src="_tagalogwords1_bill.jpg"/>
+pangngalan;buhay may asawa;marriage;<img src="_tagalogwords1_marriage.jpg"/>
+pangngalan;kasál;wedding;<img src="_tagalogwords1_wedding.jpg"/>
+pangngalan;koponán;team;<img src="_tagalogwords1_team.jpg"/>
+pangngalan;lahì;ethnicity;<img src="_tagalogwords1_ethnicity.jpg"/>
+pangngalan;pagtatalik;sex;<img src="_tagalogwords1_sex.jpg"/>
+pangngalan;kasarián;gender;<img src="_tagalogwords1_gender.jpg"/>
+pangngalan;pagpatáy;murder;<img src="_tagalogwords1_murder.jpg"/>
+pangngalan;bilangguan;prison;<img src="_tagalogwords1_prison.jpg"/>
+pangngalan;teknolohiya;technology;<img src="_tagalogwords1_technology.jpg"/>
+pangngalan;enerhiya;energy;<img src="_tagalogwords1_energy.jpg"/>
+pangngalan;digmâ;war;<img src="_tagalogwords1_war.jpg"/>
+pangngalan;kapayapaan;peace;<img src="_tagalogwords1_peace.jpg"/>
+pangngalan;salakay;attack;<img src="_tagalogwords1_attack.jpg"/>
+pangngalan;eleksyon;election;<img src="_tagalogwords1_election.jpg"/>
+pangngalan;mágasin;magazine;<img src="_tagalogwords1_magazine.jpg"/>
+pangngalan;peryódikó;newspaper;<img src="_tagalogwords1_newspaper.jpg"/>
+pangngalan;lason;poison;<img src="_tagalogwords1_poison.jpg"/>
+pangngalan;baríl;gun;<img src="_tagalogwords1_gun.jpg"/>
+pangngalan;palakasan;sport;<img src="_tagalogwords1_sport.jpg"/>
+pangngalan;takbuhan;race;<img src="_tagalogwords1_race.jpg"/>
+pangngalan;ehersisyo;exercise;<img src="_tagalogwords1_exercise.jpg"/>
+pangngalan;bola;ball;<img src="_tagalogwords1_ball.jpg"/>
+pangngalan;larô;game;<img src="_tagalogwords1_game.jpg"/>
+pangngalan;presyo;price;<img src="_tagalogwords1_price.jpg"/>
+pangngalan;kontrata;contract;<img src="_tagalogwords1_contract.jpg"/>
+pangngalan;droga;drug;<img src="_tagalogwords1_drug.jpg"/>
+pangngalan;karátulá;sign;<img src="_tagalogwords1_sign.jpg"/>
+pangngalan;aghám;science;<img src="_tagalogwords1_science.jpg"/>
+pangngalan;banda;band;<img src="_tagalogwords1_band.jpg"/>
+pangngalan;awit;song;<img src="_tagalogwords1_song.jpg"/>
+pangngalan;instrumento;instrument;<img src="_tagalogwords1_instrument.jpg"/>
+pangngalan;músika;music;<img src="_tagalogwords1_music.jpg"/>
+pangngalan;pelíkulá;movie;<img src="_tagalogwords1_movie.jpg"/>
+pangngalan;arte;art;<img src="_tagalogwords1_art.jpg"/>
+pangngalan;kape;coffee;<img src="_tagalogwords1_coffee.jpg"/>
+pangngalan;tsaá;tea;<img src="_tagalogwords1_tea.jpg"/>
+pangngalan;alak;wine;<img src="_tagalogwords1_wine.jpg"/>
+pangngalan;serbesa;beer;<img src="_tagalogwords1_beer.jpg"/>
+pangngalan;dyus;juice;<img src="_tagalogwords1_juice.jpg"/>
+pangngalan;tubig;water;<img src="_tagalogwords1_water.jpg"/>
+pangngalan;gatas;milk;<img src="_tagalogwords1_milk.jpg"/>
+pangngalan;inumin;beverage;<img src="_tagalogwords1_beverage.jpg"/>
+pangngalan;itlog;egg;<img src="_tagalogwords1_egg.jpg"/>
+pangngalan;keso;cheese;<img src="_tagalogwords1_cheese.jpg"/>
+pangngalan;tinapay;bread;<img src="_tagalogwords1_bread.jpg"/>
+pangngalan;sopas;soup;<img src="_tagalogwords1_soup.jpg"/>
+pangngalan;keyk;cake;<img src="_tagalogwords1_cake.jpg"/>
+pangngalan;manók;chicken;<img src="_tagalogwords1_chicken.jpg"/>
+pangngalan;karnéng-baboy;pork;<img src="_tagalogwords1_pork.jpg"/>
+pangngalan;karnéng-baka;beef;<img src="_tagalogwords1_beef.jpg"/>
+pangngalan;mansanas;apple;<img src="_tagalogwords1_apple.jpg"/>
+pangngalan;saging;banana;<img src="_tagalogwords1_banana.jpg"/>
+pangngalan;dalandán;orange fruit;<img src="_tagalogwords1_orange fruit.jpg"/>
+pangngalan;lemón;lemon;<img src="_tagalogwords1_lemon.jpg"/>
+pangngalan;maís;corn;<img src="_tagalogwords1_corn.jpg"/>
+pangngalan;kanin;rice;<img src="_tagalogwords1_rice.jpg"/>
+pangngalan;mantikà;oil;<img src="_tagalogwords1_oil.jpg"/>
+pangngalan;butó;seed;<img src="_tagalogwords1_seed.jpg"/>
+pangngalan;kutsilyo;knife;<img src="_tagalogwords1_knife.jpg"/>
+pangngalan;kutsara;spoon;<img src="_tagalogwords1_spoon.jpg"/>
+pangngalan;tinidór;fork;<img src="_tagalogwords1_fork.jpg"/>
+pangngalan;plato;plate;<img src="_tagalogwords1_plate.jpg"/>
+pangngalan;tasa;cup;<img src="_tagalogwords1_cup.jpg"/>
+pangngalan;almusál;breakfast;<img src="_tagalogwords1_breakfast.jpg"/>
+pangngalan;tanghalian;lunch;<img src="_tagalogwords1_lunch.jpg"/>
+pangngalan;hapunan;dinner;<img src="_tagalogwords1_dinner.jpg"/>
+pangngalan;asukal;sugar;<img src="_tagalogwords1_sugar.jpg"/>
+pangngalan;asín;salt;<img src="_tagalogwords1_salt.jpg"/>
+pangngalan;botelya;bottle;<img src="_tagalogwords1_bottle.jpg"/>
+pangngalan;pagkain;food;<img src="_tagalogwords1_food.jpg"/>
+pangngalan;mesa;table;<img src="_tagalogwords1_table.jpg"/>
+pangngalan;upuan;chair;<img src="_tagalogwords1_chair.jpg"/>
+pangngalan;kama;bed;<img src="_tagalogwords1_bed.jpg"/>
+pangngalan;pangarap;ambition;<img src="_tagalogwords1_ambition.jpg"/>
+pangngalan;panaginip;dream;<img src="_tagalogwords1_dream.jpg"/>
+pangngalan;bintana;window;<img src="_tagalogwords1_window.jpg"/>
+pangngalan;pintô;door;<img src="_tagalogwords1_door.jpg"/>
+pangngalan;kuwarto;bedroom;<img src="_tagalogwords1_bedroom.jpg"/>
+pangngalan;kusina;kitchen;<img src="_tagalogwords1_kitchen.jpg"/>
+pangngalan;palikuran/kubeta/CR;bathroom;<img src="_tagalogwords1_bathroom.jpg"/>
+pangngalan;lapis;pencil;<img src="_tagalogwords1_pencil.jpg"/>
+pangngalan;bolpen;pen;<img src="_tagalogwords1_pen.jpg"/>
+pangngalan;litrato;photograph;<img src="_tagalogwords1_photograph.jpg"/>
+pangngalan;sabón;soap;<img src="_tagalogwords1_soap.jpg"/>
+pangngalan;aklat;book;<img src="_tagalogwords1_book.jpg"/>
+pangngalan;páhína;page;<img src="_tagalogwords1_page.jpg"/>
+pangngalan;susì;key;<img src="_tagalogwords1_key.jpg"/>
+pangngalan;pintura;paint;<img src="_tagalogwords1_paint.jpg"/>
+pangngalan;titik;letter;<img src="_tagalogwords1_letter.jpg"/>
+pangngalan;nota;note;<img src="_tagalogwords1_note.jpg"/>
+pangngalan;padér;wall;<img src="_tagalogwords1_wall.jpg"/>
+pangngalan;papel;paper;<img src="_tagalogwords1_paper.jpg"/>
+pangngalan;sahíg;floor;<img src="_tagalogwords1_floor.jpg"/>
+pangngalan;kísame;ceiling;<img src="_tagalogwords1_ceiling.jpg"/>
+pangngalan;bubóng;roof;<img src="_tagalogwords1_roof.jpg"/>
+pangngalan;languyan;pool;<img src="_tagalogwords1_pool.jpg"/>
+pangngalan;kandado;lock;<img src="_tagalogwords1_lock.jpg"/>
+pangngalan;telepono;telephone;<img src="_tagalogwords1_telephone.jpg"/>
+pangngalan;hardín;garden;<img src="_tagalogwords1_garden.jpg"/>
+pangngalan;bakuran;yard;<img src="_tagalogwords1_yard.jpg"/>
+pangngalan;karayom;needle;<img src="_tagalogwords1_needle.jpg"/>
+pangngalan;supot;bag;<img src="_tagalogwords1_bag.jpg"/>
+pangngalan;kahon;box;<img src="_tagalogwords1_box.jpg"/>
+pangngalan;regalo;gift;<img src="_tagalogwords1_gift.jpg"/>
+pangngalan;baraha;card;<img src="_tagalogwords1_card.jpg"/>
+pangngalan;kulilíng;ring;<img src="_tagalogwords1_ring.jpg"/>
+pangngalan;kasangkapan;tool;<img src="_tagalogwords1_tool.jpg"/>
+pangngalan;orasán;clock;<img src="_tagalogwords1_clock.jpg"/>
+pangngalan;ilawán;lamp;<img src="_tagalogwords1_lamp.jpg"/>
+pangngalan;abaniko;fan;<img src="_tagalogwords1_fan.jpg"/>
+pangngalan;cellphone;cellphone;<img src="_tagalogwords1_cellphone.jpg"/>
+pangngalan;network;network;<img src="_tagalogwords1_network.jpg"/>
+pangngalan;kompyuter;computer;<img src="_tagalogwords1_computer.jpg"/>
+pangngalan;progama ng kompyuter;computer program;<img src="_tagalogwords1_computer program.jpg"/>
+pangngalan;laptop;laptop;<img src="_tagalogwords1_laptop.jpg"/>
+pangngalan;iskrín;screen;<img src="_tagalogwords1_screen.jpg"/>
+pangngalan;kamera;camera;<img src="_tagalogwords1_camera.jpg"/>
+pangngalan;telebisyón;television;<img src="_tagalogwords1_television.jpg"/>
+pangngalan;radyo;radio;<img src="_tagalogwords1_radio.jpg"/>
+pangngalan;ulo;head;<img src="_tagalogwords1_head.jpg"/>
+pangngalan;leég;neck;<img src="_tagalogwords1_neck.jpg"/>
+pangngalan;mukha;face;<img src="_tagalogwords1_face.jpg"/>
+pangngalan;balbas;beard;<img src="_tagalogwords1_beard.jpg"/>
+pangngalan;buhok;hair;<img src="_tagalogwords1_hair.jpg"/>
+pangngalan;mata;eye;<img src="_tagalogwords1_eye.jpg"/>
+pangngalan;bibig;mouth;<img src="_tagalogwords1_mouth.jpg"/>
+pangngalan;labì;lip;<img src="_tagalogwords1_lip.jpg"/>
+pangngalan;ilóng;nose;<img src="_tagalogwords1_nose.jpg"/>
+pangngalan;ngipin;tooth;<img src="_tagalogwords1_tooth.jpg"/>
+pangngalan;tainga;ear;<img src="_tagalogwords1_ear.jpg"/>
+pangngalan;luhà;teardrop;<img src="_tagalogwords1_teardrop.jpg"/>
+pangngalan;dilà;tongue;<img src="_tagalogwords1_tongue.jpg"/>
+pangngalan;likod;back;<img src="_tagalogwords1_back.jpg"/>
+pangngalan;daliri sa paá;toe;<img src="_tagalogwords1_toe.jpg"/>
+pangngalan;daliri;finger;<img src="_tagalogwords1_finger.jpg"/>
+pangngalan;paá;foot;<img src="_tagalogwords1_foot.jpg"/>
+pangngalan;kamáy;hand;<img src="_tagalogwords1_hand.jpg"/>
+pangngalan;binti;leg;<img src="_tagalogwords1_leg.jpg"/>
+pangngalan;braso;arm;<img src="_tagalogwords1_arm.jpg"/>
+pangngalan;balikat;shoulder;<img src="_tagalogwords1_shoulder.jpg"/>
+pangngalan;puso;heart;<img src="_tagalogwords1_heart.jpg"/>
+pangngalan;dugo;blood;<img src="_tagalogwords1_blood.jpg"/>
+pangngalan;utak;brain;<img src="_tagalogwords1_brain.jpg"/>
+pangngalan;tuhod;knee;<img src="_tagalogwords1_knee.jpg"/>
+pangngalan;pawis;sweat;<img src="_tagalogwords1_sweat.jpg"/>
+pangngalan;sakit;disease;<img src="_tagalogwords1_disease.jpg"/>
+pangngalan;tinik;fishbone;<img src="_tagalogwords1_fishbone.jpg"/>
+pangngalan;butó;bone;<img src="_tagalogwords1_bone.jpg"/>
+pangngalan;tinig;voice;<img src="_tagalogwords1_voice.jpg"/>
+pangngalan;balat;skin;<img src="_tagalogwords1_skin.jpg"/>
+pangngalan;katawan;body;<img src="_tagalogwords1_body.jpg"/>
+pangngalan;dagat;sea;<img src="_tagalogwords1_sea.jpg"/>
+pangngalan;karagatán;ocean;<img src="_tagalogwords1_ocean.jpg"/>
+pangngalan;ilog;river;<img src="_tagalogwords1_river.jpg"/>
+pangngalan;bundók;mountain;<img src="_tagalogwords1_mountain.jpg"/>
+pangngalan;ulan;rain;<img src="_tagalogwords1_rain.jpg"/>
+pangngalan;niyebe;snow;<img src="_tagalogwords1_snow.jpg"/>
+pangngalan;puno;tree;<img src="_tagalogwords1_tree.jpg"/>
+pangngalan;araw;sun;<img src="_tagalogwords1_sun.jpg"/>
+pangngalan;buwan;moon;<img src="_tagalogwords1_moon.jpg"/>
+pangngalan;mundo;world;<img src="_tagalogwords1_world.jpg"/>
+pangngalan;gubat;forest;<img src="_tagalogwords1_forest.jpg"/>
+pangngalan;kalangítan;sky;<img src="_tagalogwords1_sky.jpg"/>
+pangngalan;halaman;plant;<img src="_tagalogwords1_plant.jpg"/>
+pangngalan;hangin;wind;<img src="_tagalogwords1_wind.jpg"/>
+pangngalan;lupa;soil;<img src="_tagalogwords1_soil.jpg"/>
+pangngalan;bulaklak;flower;<img src="_tagalogwords1_flower.jpg"/>
+pangngalan;lambak;valley;<img src="_tagalogwords1_valley.jpg"/>
+pangngalan;ugat;root;<img src="_tagalogwords1_root.jpg"/>
+pangngalan;lawa;lake;<img src="_tagalogwords1_lake.jpg"/>
+pangngalan;bituín;star;<img src="_tagalogwords1_star.jpg"/>
+pangngalan;damò;grass;<img src="_tagalogwords1_grass.jpg"/>
+pangngalan;dahon;leaf;<img src="_tagalogwords1_leaf.jpg"/>
+pangngalan;hangin;air;<img src="_tagalogwords1_air.jpg"/>
+pangngalan;buhangin;sand;<img src="_tagalogwords1_sand.jpg"/>
+pangngalan;tabíng-dagat;beach;<img src="_tagalogwords1_beach.jpg"/>
+pangngalan;alon;wave;<img src="_tagalogwords1_wave.jpg"/>
+pangngalan;sunog;fire;<img src="_tagalogwords1_fire.jpg"/>
+pangngalan;yelo;ice;<img src="_tagalogwords1_ice.jpg"/>
+pangngalan;isla;island;<img src="_tagalogwords1_island.jpg"/>
+pangngalan;buról;hill;<img src="_tagalogwords1_hill.jpg"/>
+pangngalan;init;heat;<img src="_tagalogwords1_heat.jpg"/>
+pangngalan;kalikasan;nature;<img src="_tagalogwords1_nature.jpg"/>
+pangngalan;salamín;glass;<img src="_tagalogwords1_glass.jpg"/>
+pangngalan;bakal;metal;<img src="_tagalogwords1_metal.jpg"/>
+pangngalan;plastik;plastic;<img src="_tagalogwords1_plastic.jpg"/>
+pangngalan;kahoy;wood;<img src="_tagalogwords1_wood.jpg"/>
+pangngalan;bató;stone;<img src="_tagalogwords1_stone.jpg"/>
+pangngalan;diyamante;diamond;<img src="_tagalogwords1_diamond.jpg"/>
+pangngalan;luwád;clay;<img src="_tagalogwords1_clay.jpg"/>
+pangngalan;alikabók;dust;<img src="_tagalogwords1_dust.jpg"/>
+pangngalan;gintô;gold;<img src="_tagalogwords1_gold.jpg"/>
+pangngalan;tansô;copper;<img src="_tagalogwords1_copper.jpg"/>
+pangngalan;pilak;silver;<img src="_tagalogwords1_silver.jpg"/>
+pangngalan;materyál;material;<img src="_tagalogwords1_material.jpg"/>
+pangngalan;metro;meter;<img src="_tagalogwords1_meter.jpg"/>
+pangngalan;sentimetro;centimeter;<img src="_tagalogwords1_centimeter.jpg"/>
+pangngalan;kilo;kilogram;<img src="_tagalogwords1_kilogram.jpg"/>
+pangngalan;pulgada;inch;<img src="_tagalogwords1_inch.jpg"/>
+pangngalan;piyé;foot measurement;<img src="_tagalogwords1_foot measurement.jpg"/>
+pangngalan;libra;pound;<img src="_tagalogwords1_pound.jpg"/>
+pangngalan;kalahatì;half;<img src="_tagalogwords1_half.jpg"/>
+pangngalan;bilog;circle;<img src="_tagalogwords1_circle.jpg"/>
+pangngalan;parisukát;square;<img src="_tagalogwords1_square.jpg"/>
+pangngalan;temperatura;temperature;<img src="_tagalogwords1_temperature.jpg"/>
+pangngalan;petsa;date;<img src="_tagalogwords1_date.jpg"/>
+pangngalan;timbáng;weight;<img src="_tagalogwords1_weight.jpg"/>
+pangngalan;gilid;edge;<img src="_tagalogwords1_edge.jpg"/>
+pangngalan;kanto;corner;<img src="_tagalogwords1_corner.jpg"/>
+pangngalan;mapa;map;<img src="_tagalogwords1_map.jpg"/>
+pangngalan;punto;dot;<img src="_tagalogwords1_dot.jpg"/>
+pangngalan;katinig;consonant;<img src="_tagalogwords1_consonant.jpg"/>
+pangngalan;patinig;vowel;<img src="_tagalogwords1_vowel.jpg"/>
+pangngalan;ilaw;light;<img src="_tagalogwords1_light.jpg"/>
+pangngalan;tunóg;sound;<img src="_tagalogwords1_sound.jpg"/>
+pangngalan;piraso;piece;<img src="_tagalogwords1_piece.jpg"/>
+pangngalan;pananakít;pain;<img src="_tagalogwords1_pain.jpg"/>
+pangngalan;pinsalà;injury;<img src="_tagalogwords1_injury.jpg"/>
+pangngalan;butas;hole;<img src="_tagalogwords1_hole.jpg"/>
+pangngalan;larawan;image;<img src="_tagalogwords1_image.jpg"/>
+pangngalan;padrón;pattern;<img src="_tagalogwords1_pattern.jpg"/>
+pangngalan;pangngalan;noun;<img src="_tagalogwords1_noun.jpg"/>
+pangngalan;pandiwa;verb;<img src="_tagalogwords1_verb.jpg"/>
+pangngalan;pang-urí;adjective;<img src="_tagalogwords1_adjective.jpg"/>
+pangngalan;gawî;direction;<img src="_tagalogwords1_direction.jpg"/>
+pangngalan;kapanahunan;season;<img src="_tagalogwords1_season.jpg"/>
+pangngalan;taón;year;<img src="_tagalogwords1_year.jpg"/>
+pangngalan;buwán;month;<img src="_tagalogwords1_month.jpg"/>
+pangngalan;linggó;week;<img src="_tagalogwords1_week.jpg"/>
+pangngalan;araw;day;<img src="_tagalogwords1_day.jpg"/>
+pangngalan;oras;time;<img src="_tagalogwords1_time.jpg"/>
+pangngalan;minuto;minute;<img src="_tagalogwords1_minute.jpg"/>
+pangngalan;segundo;second;<img src="_tagalogwords1_second.jpg"/>
+pangngalan;umaga;morning;<img src="_tagalogwords1_morning.jpg"/>
+pangngalan;hapon;afternoon;<img src="_tagalogwords1_afternoon.jpg"/>
+pangngalan;gabí;evening;<img src="_tagalogwords1_evening.jpg"/>
+tamang pangngalan;Diyos;God;<img src="_tagalogwords1_God.jpg"/>
+tamang pangngalan;daigdíg;Earth;<img src="_tagalogwords1_Earth.jpg"/>
+tamang pangngalan;Hilagà;North;<img src="_tagalogwords1_North.jpg"/>
+tamang pangngalan;Timog;South;<img src="_tagalogwords1_South.jpg"/>
+tamang pangngalan;Silangan;East;<img src="_tagalogwords1_East.jpg"/>
+tamang pangngalan;Kanluran;West;<img src="_tagalogwords1_West.jpg"/>
+tamang pangngalan;Tag-aráw;Summer;<img src="_tagalogwords1_Summer.jpg"/>
+tamang pangngalan;Tagsiból;Spring;<img src="_tagalogwords1_Spring.jpg"/>
+tamang pangngalan;Taglamíg;Winter;<img src="_tagalogwords1_Winter.jpg"/>
+tamang pangngalan;Taglagás;Fall;<img src="_tagalogwords1_Fall.jpg"/>
+tamang pangngalan;Enero;January;<img src="_tagalogwords1_January.jpg"/>
+tamang pangngalan;Pebrero;February;<img src="_tagalogwords1_February.jpg"/>
+tamang pangngalan;Marso;March;<img src="_tagalogwords1_March.jpg"/>
+tamang pangngalan;Abríl;April;<img src="_tagalogwords1_April.jpg"/>
+tamang pangngalan;Mayo;May;<img src="_tagalogwords1_May.jpg"/>
+tamang pangngalan;Hunyo;June;<img src="_tagalogwords1_June.jpg"/>
+tamang pangngalan;Hulyo;July;<img src="_tagalogwords1_July.jpg"/>
+tamang pangngalan;Agosto;August;<img src="_tagalogwords1_August.jpg"/>
+tamang pangngalan;Setyembre;September;<img src="_tagalogwords1_September.jpg"/>
+tamang pangngalan;Oktubre;October;<img src="_tagalogwords1_October.jpg"/>
+tamang pangngalan;Nobyembre;November;<img src="_tagalogwords1_November.jpg"/>
+tamang pangngalan;Disyembre;December;<img src="_tagalogwords1_December.jpg"/>
+tamang pangngalan;Lunes;Monday;<img src="_tagalogwords1_Monday.jpg"/>
+tamang pangngalan;Martės;Tuesday;<img src="_tagalogwords1_Tuesday.jpg"/>
+tamang pangngalan;Miyérkoles;Wednesday;<img src="_tagalogwords1_Wednesday.jpg"/>
+tamang pangngalan;Huwebes;Thursday;<img src="_tagalogwords1_Thursday.jpg"/>
+tamang pangngalan;Biyernes;Friday;<img src="_tagalogwords1_Friday.jpg"/>
+tamang pangngalan;Sábado;Saturday;<img src="_tagalogwords1_Saturday.jpg"/>
+tamang pangngalan;Linggó;Sunday;<img src="_tagalogwords1_Sunday.jpg"/>
+kuláy;pulá;red;<img src="_tagalogwords1_red.jpg"/>
+kuláy;berde;green;<img src="_tagalogwords1_green.jpg"/>
+kuláy;asul;blue;<img src="_tagalogwords1_blue.jpg"/>
+kuláy;dilaw;yellow;<img src="_tagalogwords1_yellow.jpg"/>
+kuláy;kape;brown;<img src="_tagalogwords1_brown.jpg"/>
+kuláy;rosas;pink;<img src="_tagalogwords1_pink.jpg"/>
+kuláy;kahél;orange color;<img src="_tagalogwords1_orange color.jpg"/>
+kuláy;itím;black;<img src="_tagalogwords1_black.jpg"/>
+kuláy;putî;white;<img src="_tagalogwords1_white.jpg"/>
+kuláy;kúlay-abó;gray;<img src="_tagalogwords1_gray.jpg"/>
+relasyon;anák na lalaki;son;<img src="_tagalogwords1_son.jpg"/>
+relasyon;anák na babae;daughter;<img src="_tagalogwords1_daughter.jpg"/>
+relasyon;nanay;mother;<img src="_tagalogwords1_mother.jpg"/>
+relasyon;tatay;father;<img src="_tagalogwords1_father.jpg"/>
+relasyon;magulang;parent;<img src="_tagalogwords1_parent.jpg"/>
+relasyon;kapatid na lalaki;brother;<img src="_tagalogwords1_brother.jpg"/>
+relasyon;kapatid na babae;sister;<img src="_tagalogwords1_sister.jpg"/>
+relasyon;pamilya;family;<img src="_tagalogwords1_family.jpg"/>
+relasyon;lolo;grandfather;<img src="_tagalogwords1_grandfather.jpg"/>
+relasyon;lola;grandmother;<img src="_tagalogwords1_grandmother.jpg"/>
+relasyon;asawa;spouse;<img src="_tagalogwords1_spouse.jpg"/>
+relasyon;kapitbahay;neighbor;<img src="_tagalogwords1_neighbor.jpg"/>
+propesyon;harì;king;<img src="_tagalogwords1_king.jpg"/>
+propesyon;reyna;queen;<img src="_tagalogwords1_queen.jpg"/>
+propesyon;pangulo;president;<img src="_tagalogwords1_president.jpg"/>
+propesyon;gurò;teacher;<img src="_tagalogwords1_teacher.jpg"/>
+propesyon;estudyante;student;<img src="_tagalogwords1_student.jpg"/>
+propesyon;abogado;lawyer;<img src="_tagalogwords1_lawyer.jpg"/>
+propesyon;doktor;doctor;<img src="_tagalogwords1_doctor.jpg"/>
+propesyon;pasyente;patient;<img src="_tagalogwords1_patient.jpg"/>
+propesyon;weyter;waiter;<img src="_tagalogwords1_waiter.jpg"/>
+propesyon;kalihim;secretary;<img src="_tagalogwords1_secretary.jpg"/>
+propesyon;parì;priest;<img src="_tagalogwords1_priest.jpg"/>
+propesyon;pulís;police;<img src="_tagalogwords1_police.jpg"/>
+propesyon;hukbó;army;<img src="_tagalogwords1_army.jpg"/>
+propesyon;sundalo;soldier;<img src="_tagalogwords1_soldier.jpg"/>
+propesyon;artista;artist;<img src="_tagalogwords1_artist.jpg"/>
+propesyon;awtór;author;<img src="_tagalogwords1_author.jpg"/>
+propesyon;mánedyér;manager;<img src="_tagalogwords1_manager.jpg"/>
+propesyon;reporter;reporter;<img src="_tagalogwords1_reporter.jpg"/>
+propesyon;aktor;actor;<img src="_tagalogwords1_actor.jpg"/>
+kataga;oo;yes;<img src="_tagalogwords1_yes.jpg"/>
+kataga;hindi;no;<img src="_tagalogwords1_no.jpg"/>
+panghalip na aktor;ako;I;<img src="_tagalogwords1_I.jpg"/>
+panghalip na aktor;ka/ikaw;singular you;<img src="_tagalogwords1_singular you.jpg"/>
+panghalip na aktor;siya;he she it;<img src="_tagalogwords1_he she it.jpg"/>
+panghalip na aktor;kami;exclusive we;<img src="_tagalogwords1_exclusive we.jpg"/>
+panghalip na aktor;tayo;inclusive we;<img src="_tagalogwords1_inclusive we.jpg"/>
+panghalip na aktor;kayo;plural you;<img src="_tagalogwords1_plural you.jpg"/>
+panghalip na aktor;sila;they;<img src="_tagalogwords1_they.jpg"/>

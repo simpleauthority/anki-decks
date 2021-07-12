@@ -73,7 +73,6 @@ pangngalan;batang lalaki;boy
 pangngalan;batang babae;girl
 pangngalan;batà;child
 pangngalan;gulang;adult
-pangngalan;pantao;human
 pangngalan;kaibigan;friend
 pangngalan;biktima;victim
 pangngalan;manlaláro;player
