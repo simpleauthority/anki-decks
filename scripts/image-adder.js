@@ -16,9 +16,9 @@ import * as fs from 'fs/promises'
             return
         }
 
-        let imagePath = process.argv[4]
-        if (!imagePath) {
-            console.error("No image path given!")
+        let imagePrefix = process.argv[4]
+        if (!imagePrefix) {
+            console.error("No image prefix given!")
             return
         }
 
@@ -32,7 +32,7 @@ import * as fs from 'fs/promises'
         content = content.map(line => {
             line = line.replace(/[\u0000-\u001F\u007F-\u009F]/g, "")
             let word = line.split(";")[2]
-            line = `${line};${imagePath}${word}.jpg`
+            line = `${line};<img src="${imagePrefix + word}.jpg"/>`
             return line
         })
 
