@@ -145,7 +145,7 @@ pangngalan;lemón;lemon
 pangngalan;maís;corn
 pangngalan;kanin;rice
 pangngalan;mantikà;oil
-pangngalan;butó;seed
+pangngalan;buto;seed
 pangngalan;kutsilyo;knife
 pangngalan;kutsara;spoon
 pangngalan;tinidór;fork
@@ -193,7 +193,7 @@ pangngalan;supot;bag
 pangngalan;kahon;box
 pangngalan;regalo;gift
 pangngalan;baraha;card
-pangngalan;kulilíng;ring
+pangngalan;singsíng;ring
 pangngalan;kasangkapan;tool
 pangngalan;orasán;clock
 pangngalan;ilawán;lamp
