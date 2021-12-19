@@ -1,28 +1,28 @@
-pawatas;maglarô;
-naganap;naglarô;
-nagaganap;naglalarô;
-magaganap;maglalarô;
-pawatas;laruín;
-naganap;nilarô;
-nagaganap;nilalarô;
-magaganap;lálaruín;
-pawatas;maglakád;
-naganap;naglakád;
-nagaganap;naglálakád;
-magaganap;maglálakád;
-pawatas;tumakbó;
-naganap;tumakbó;
-nagaganap;tumátakbó;
-magaganap;tátakbó;
-pawatas;magmaneho;
-naganap;nagmaneho;
-nagaganap;nagmámaneho;
-magaganap;magmámaneho;
-pawatas;lumipád;
-naganap;lumipád;
-nagaganap;lumílipád;
-magaganap;lílipád;
-pawatas;lumangóy;
+pawatas;maglarô;Maglarô tayo ng Monopoly
+naganap;naglarô;Naglarô kami ng basketball noong Sabado
+nagaganap;naglalarô;Naglalarô ng video games ang kapatid na lalaki ko
+magaganap;maglalarô;Maglalarô kayo at ako ng Chess
+pawatas;laruín;Laruín mo nga ito!
+naganap;nilarô;Totoo ba nilarô ng batang lalaki ang manika?
+nagaganap;nilalarô;Madalas nilalarô ng mahal ko yung Mobile Legends.
+magaganap;lálaruín;Lálaruín ko yung Call of Duty mamaya.
+pawatas;maglakád;Maglakád na lang tayo sa SM.
+naganap;naglakád;Naglakád ako sa eskwelahan.
+nagaganap;naglálakád;Nalálakád na tayo sa tabing-dagat.
+magaganap;maglálakád;Maglálakád daw siya sa opisina sa ngayong araw.
+pawatas;tumakbó;Tumákbo ka lang sa takbuhan ng karidád.
+naganap;tumakbó;Tumákbo lamang ako sa tindahan.
+nagaganap;tumátakbó;Tumátakbó yung kalihim para sa kape.
+magaganap;tátakbó;Tátakbó yung mga kalahók sa Olympics.
+pawatas;magmaneho;Nag-aaral ako na magmaneho.
+naganap;nagmaneho;Nagmaneho lang tayo mula sa paliparán papunta sa bahay mo.
+nagaganap;nagmámaneho;Nagmámaneho kami sa ferry terminal.
+magaganap;magmámaneho;Magmámaneho tayo mula sa bahay papunta sa eskwelahan.
+pawatas;lumipád;Dapat ka na lang lumipád kasi masyadong mabagal ang pagmaneho. Tsaka, di mo kaya magmaneho sa ibabaw ng karagatan.
+naganap;lumipád;Lumipád ako mula sa Los Angeles papunta sa Maynila, pero may antala nang tatlong oras sa Tsina.
+nagaganap;lumílipád;Lumílipád na siya papunta sa dito. Dapat dumating siya nang isang oras.
+magaganap;lílipád;Lílipád si Jacob papunta sa Maynila kapag tapos na yung COVID-19.
+pawatas;lumangóy;Lumangóy na tayo sa languyan.
 naganap;lumangóy;
 nagaganap;lumálangóy;
 magaganap;lálangóy;

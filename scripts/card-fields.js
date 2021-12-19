@@ -1,14 +1,15 @@
 import * as fs from 'fs/promises'
 
 (async () => {
-    let printTable = table => {
-        console.table(table, ["Type", "Tagalog", "English"])
+    let printTable = (table, fields) => {
+        console.table(table, fields)
         return []
     }
 
     let handle
     try {
         let filename = process.argv[2]
+        let fields = process.argv[3].split(";")
 
         console.log(`Opening ${filename}...`)
         handle = await fs.open(filename)
@@ -30,11 +31,15 @@ import * as fs from 'fs/promises'
                 cat = split[0]
             }
 
-            table.push({
-                "Type": split[0],
-                "Tagalog": split[1],
-                "English": split[2].replace('\r', '')
-            })
+            let obj = {}
+            for (let i = 0; i < fields.length; i++) {
+                let entry = split[i]
+                if (!entry) entry = ""
+
+                obj[fields[i]] = entry.replace("\r", "")
+            }
+
+            table.push(obj)
         })
 
         printTable(table)
