@@ -9,3 +9,4 @@ tulog;matulog;natulog;natutulog;matutulog;to sleep
 panalo;manalo;nanalo;nananalo;mananalo;to win
 linis;malinis;nalinis;nalilinis;malilinis;to be able to clean
 hulog;mahulog;nahulog;nahuhulog;mahuhulog;to fall
+dagdag;madagdag;nadagdag;nadadagdag;madadagdag;to be added

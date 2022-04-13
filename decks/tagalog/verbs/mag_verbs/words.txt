@@ -28,3 +28,5 @@ sara;magsara;nagsara;nagsasara;magsasara;to close
 turo;magturo;nagturo;nagtuturo;magtuturo;to teach
 dala;magdala;nagdala;nagdadala;magdadala;to bring
 alis;mag-alis;nag-alis;nag-aalis;mag-aalis;to remove
+dagdag;magdagdag;nagdagdag;nagdadagdag;magdadagadag;to add
+bawas;magbawas;nagbawas;nagbabawas;magbabawas;to reduce
