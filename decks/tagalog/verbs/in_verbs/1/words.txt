@@ -1,0 +1,16 @@
+laro;laruin;nilaro;nilalaro;lalaruin
+isip;isipin;inisip;iniisip;iisipin
+inom;inumín;ininom;iniinom;iinumin
+kain;kainin;kinain;kinakain;kakainin
+patay;patayin;pinatay;pinapatay;papatayin
+bili;bilhin;binili;binibili;bibilhin
+amoy;amuyin;inamoy;inaamoy;aamuyin
+mahal;mahalin;minahal;minamahal;mamahalin
+hiwa;hiwain;hiniwa;hinihiwa;hihiwain
+halo;haluin;hinalo;hinahalo;hahaluin
+tawag;tawagin;tinawag;tinatawag;tatawagin
+huli;hulihin;hinuli;hinuhuli;huhulihin
+bato;batuhin;binato;binabato;babatuhin
+hanap;hanapin;hinanap;hinahanap;hahanapin
+hila;hilahin;hinila;hinihila;hihilahin
+bitin;ibitin;ibinitin;ibinibitin;ibibitin
