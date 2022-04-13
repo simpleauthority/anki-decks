@@ -1,11 +1,11 @@
-patay;mamatay;namatay;namamatay;mamamatay
-tuto;matuto;natuto;natututo;matututo
-dinig;marinig;narinig;naririnig;maririnig
-kinig;makiníg;nakinig;nakikinig;makikinig
-kita;makita;nakita;nakikita;makikita
-nood;manood;nanood;nanonood;manonood
-tunaw;matunaw;natunaw;natutunaw;matutunaw
-tulog;matulog;natulog;natutulog;matutulog
-panalo;manalo;nanalo;nananalo;mananalo
-linis;malinis;nalinis;nalilinis;malilinis
-hulog;mahulog;nahulog;nahuhulog;mahuhulog
+patay;mamatay;namatay;namamatay;mamamatay;to die
+tuto;matuto;natuto;natututo;matututo;to learn (on your own)
+dinig;marinig;narinig;naririnig;maririnig;to hear something
+kinig;makiníg;nakinig;nakikinig;makikinig;to listen
+kita;makita;nakita;nakikita;makikita;to see something
+nood;manood;nanood;nanonood;manonood;to watch something
+tunaw;matunaw;natunaw;natutunaw;matutunaw;to melt
+tulog;matulog;natulog;natutulog;matutulog;to sleep
+panalo;manalo;nanalo;nananalo;mananalo;to win
+linis;malinis;nalinis;nalilinis;malilinis;to be able to clean
+hulog;mahulog;nahulog;nahuhulog;mahuhulog;to fall

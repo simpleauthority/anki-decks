@@ -1,5 +1,5 @@
-tikim;tikman;tinikman;tinitikman;titikman
-halik;halikan;hinalikan;hinahalikan;hahalikan
-daan;daanan;dinaanan;dinadaanan;dadaanan
-hugas;hugasan;hinugasan;hinuhugasan;huhugasan
-bukas;buksan;binuksan;binubuksan;bubuksan
+tikim;tikman;tinikman;tinitikman;titikman;to have a taste of something
+halik;halikan;hinalikan;hinahalikan;hahalikan;to kiss someone or something
+daan;daanan;dinaanan;dinadaanan;dadaanan;to pass through somewhere
+hugas;hugasan;hinugasan;hinuhugasan;huhugasan;to wash something
+bukas;buksan;binuksan;binubuksan;bubuksan;to open something

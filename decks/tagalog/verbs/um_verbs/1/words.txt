@@ -1,29 +1,30 @@
-takbo;tumakbo;tumakbo;tumatakbo;tatakbo
-langoy;lumangoy;lumangoy;lumalangoy;lalangoy
-punta;pumunta;pumunta;pumupunta;pupunta
-tigil;tumigil;tumigil;tumitigil;titigil
-sunod;sumunod;sumunod;sumusunod;susunod;
-ngiti;ngumiti;ngumiti;ngumingiti;ngingiti
-tawa;tumawa;tumawa;tumatawa;tatawa
-iyak;umiyak;umiyak;umiiyak;iiyak
-bili;bumili;bumili;bumibili;bibili
-baril;bumaril;bumaril;bumabaril;babaril
-talon;tumalon;tumalon;tumatalon;tatalon
-hipo;humipo;humipo;humihipo;hihipo
-sunog;sumunog;sumunog;sumusunog;susunog
-putok;pumutok;pumutok;pumuputok;puputok
-upo;umupo;umupo;umuupo;uupo
-tayo;tumayo;tumayo;tumatayo;tatayo
-higa;humiga;humiga;humihiga;hihiga
-sayaw;sumayaw;sumayaw;sumasayaw;sasayaw
-gising;gumising;gumising;gumigising;gigising
-kanta;kumanta;kumanta;kumakanta;kakanta
-bilang;bumilang;bumilang;bumibilang;bibilang
-sulat;sumulat;sumulat;sumusulat;susulat
-liko;lumiko;lumiko;lumiliko;liliko
-gawa;gumawa;gumawa;gumugawa;gagawa
-laki;lumaki;lumaki;lumulaki;lalaki
-guhit;gumuhit;gumuhit;gumuguhit;guguhit
-sira;sumira;sumira;sumisira;sisira
-uga;umuga;umuga;umuuga;uuga
-palo;pumalo;pumalo;pumapalo;papalo
+takbo;tumakbo;tumakbo;tumatakbo;tatakbo;to run
+langoy;lumangoy;lumangoy;lumalangoy;lalangoy;to swim
+punta;pumunta;pumunta;pumupunta;pupunta;to go
+tigil;tumigil;tumigil;tumitigil;titigil;to stop
+sunod;sumunod;sumunod;sumusunod;susunod;to obey
+ngiti;ngumiti;ngumiti;ngumingiti;ngingiti;to smile
+tawa;tumawa;tumawa;tumatawa;tatawa;to laugh
+iyak;umiyak;umiyak;umiiyak;iiyak;to cry
+bili;bumili;bumili;bumibili;bibili;to buy
+baril;bumaril;bumaril;bumabaril;babaril;to shoot
+talon;tumalon;tumalon;tumatalon;tatalon;to jump
+hipo;humipo;humipo;humihipo;hihipo;to touch
+sunog;sumunog;sumunog;sumusunog;susunog;to burn
+putok;pumutok;pumutok;pumuputok;puputok;to explode
+upo;umupo;umupo;umuupo;uupo;to sit
+tayo;tumayo;tumayo;tumatayo;tatayo;to stand
+higa;humiga;humiga;humihiga;hihiga;to lie down
+sayaw;sumayaw;sumayaw;sumasayaw;sasayaw;to dance
+gising;gumising;gumising;gumigising;gigising;to wake up
+kanta;kumanta;kumanta;kumakanta;kakanta;to sing
+bilang;bumilang;bumilang;bumibilang;bibilang;to count
+sulat;sumulat;sumulat;sumusulat;susulat;to write
+liko;lumiko;lumiko;lumiliko;liliko;to turn
+gawa;gumawa;gumawa;gumugawa;gagawa;to do
+laki;lumaki;lumaki;lumulaki;lalaki;to grow big
+guhit;gumuhit;gumuhit;gumuguhit;guguhit;to draw
+sira;sumira;sumira;sumisira;sisira;to destroy
+uga;umuga;umuga;umuuga;uuga;to shake
+palo;pumalo;pumalo;pumapalo;papalo;to spank
+likha;lumikha;lumikha;lumilikha;lilikha;to create

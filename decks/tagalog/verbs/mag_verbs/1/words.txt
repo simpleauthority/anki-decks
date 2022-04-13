@@ -1,29 +1,29 @@
-laba;maglaba;naglaba;naglalaba;maglalaba
-laro;maglaro;naglaro;naglalaro;maglalaro
-linis;maglinis;naglinis;naglilinis;maglilinis
-alala;magalala;nagalala;nagaalala;magaalala
-trabaho;magtrabaho;nagtrabaho;nagtatrabaho;magtatrabaho
-salita;magsalita;nagsalita;nagsasalita;magsasalita
-usap;mag-usap;nag-usap;nag-uusap;mag-uusap
-isip;mag-isip;nag-isip;nag-iisip;mag-iisip
-aral;mag-aral;nag-aral;nag-aaral;mag-aaral
-away;mag-away;nag-away;nag-aaway;mag-aaway
-abot;mag-abot;nag-abot;nag-aabot;mag-aabot
-luto;magluto;nagluto;nagluluto;magluluto
-bihis;magbihis;nagbihis;nagbibihis;magbibihis
-basa;magbasa;nagbasa;nagbabasa;magbabasa
-inom;mag-inom;nag-inom;nag-iinom;mag-iinom
-sulat;magsulat;nagsulat;nagsusulat;magsusulat
-sipilyo;magsipilyo;nagsipilyo;nagsisipilyo;magsisipilyo
-kita;magkita;nagkita;nagkikita;magkikita
-suot;magsuot;nagsuot;nagsusuot;magsusuot
-suklay;magsuklay;nagsuklay;nagsusuklay;magsusuklay
-lakad;maglakad;naglakad;nalalakad;maglalakad
-maneho;magmaneho;nagmaneho;nagmamaheno;magmamaneho
-bayad;magbayad;nagbayad;nagbabayad;magbabayad
-benta;magbenta;nagbenta;nagbebenta;magbebenta
-hukay;maghukay;naghukay;naghuhukay;maghuhukay
-dasal;magdasal;nagdasal;nagdadasal;magdadasal
-sara;magsara;nagsara;nagsasara;magsasara
-turo;magturo;nagturo;nagtuturo;magtuturo
-dala;magdala;nagdala;nagdadala;magdadala
+laba;maglaba;naglaba;naglalaba;maglalaba;to do laundry
+laro;maglaro;naglaro;naglalaro;maglalaro;to play
+linis;maglinis;naglinis;naglilinis;maglilinis;to clean
+alala;magalala;nagalala;nagaalala;magaalala;to worry
+trabaho;magtrabaho;nagtrabaho;nagtatrabaho;magtatrabaho;to work
+salita;magsalita;nagsalita;nagsasalita;magsasalita;to speak
+usap;mag-usap;nag-usap;nag-uusap;mag-uusap;to talk
+isip;mag-isip;nag-isip;nag-iisip;mag-iisip;to think
+aral;mag-aral;nag-aral;nag-aaral;mag-aaral;to learn (in a class)
+away;mag-away;nag-away;nag-aaway;mag-aaway;to fight with each other
+abot;mag-abot;nag-abot;nag-aabot;mag-aabot;to hand over
+luto;magluto;nagluto;nagluluto;magluluto;to cook
+bihis;magbihis;nagbihis;nagbibihis;magbibihis;to change clothes
+basa;magbasa;nagbasa;nagbabasa;magbabasa;to read
+inom;mag-inom;nag-inom;nag-iinom;mag-iinom;to drink (alcohol)
+sulat;magsulat;nagsulat;nagsusulat;magsusulat;to write
+sipilyo;magsipilyo;nagsipilyo;nagsisipilyo;magsisipilyo;to brush teeth
+kita;magkita;nagkita;nagkikita;magkikita;to meet together
+suot;magsuot;nagsuot;nagsusuot;magsusuot;to wear
+suklay;magsuklay;nagsuklay;nagsusuklay;magsusuklay;to brush one's hair
+lakad;maglakad;naglakad;nalalakad;maglalakad;to walk
+maneho;magmaneho;nagmaneho;nagmamaheno;magmamaneho;to drive
+bayad;magbayad;nagbayad;nagbabayad;magbabayad;to pay
+benta;magbenta;nagbenta;nagbebenta;magbebenta;to sell
+hukay;maghukay;naghukay;naghuhukay;maghuhukay;to dig
+dasal;magdasal;nagdasal;nagdadasal;magdadasal;to pray
+sara;magsara;nagsara;nagsasara;magsasara;to close
+turo;magturo;nagturo;nagtuturo;magtuturo;to teach
+dala;magdala;nagdala;nagdadala;magdadala;to bring

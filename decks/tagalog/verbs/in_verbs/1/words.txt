@@ -1,16 +1,16 @@
-laro;laruin;nilaro;nilalaro;lalaruin
-isip;isipin;inisip;iniisip;iisipin
-inom;inumín;ininom;iniinom;iinumin
-kain;kainin;kinain;kinakain;kakainin
-patay;patayin;pinatay;pinapatay;papatayin
-bili;bilhin;binili;binibili;bibilhin
-amoy;amuyin;inamoy;inaamoy;aamuyin
-mahal;mahalin;minahal;minamahal;mamahalin
-hiwa;hiwain;hiniwa;hinihiwa;hihiwain
-halo;haluin;hinalo;hinahalo;hahaluin
-tawag;tawagin;tinawag;tinatawag;tatawagin
-huli;hulihin;hinuli;hinuhuli;huhulihin
-bato;batuhin;binato;binabato;babatuhin
-hanap;hanapin;hinanap;hinahanap;hahanapin
-hila;hilahin;hinila;hinihila;hihilahin
-bitin;ibitin;ibinitin;ibinibitin;ibibitin
+laro;laruin;nilaro;nilalaro;lalaruin;to play with something
+isip;isipin;inisip;iniisip;iisipin;to think about something
+inom;inumín;ininom;iniinom;iinumin;to drink something
+kain;kainin;kinain;kinakain;kakainin;to eat something
+patay;patayin;pinatay;pinapatay;papatayin;to kill someone or something (an animal)
+bili;bilhin;binili;binibili;bibilhin;to buy something
+amoy;amuyin;inamoy;inaamoy;aamuyin;to smell something
+mahal;mahalin;minahal;minamahal;mamahalin;to love someone or something
+hiwa;hiwain;hiniwa;hinihiwa;hihiwain;to slice something open
+halo;haluin;hinalo;hinahalo;hahaluin;to mix something
+tawag;tawagin;tinawag;tinatawag;tatawagin;to call on someone
+huli;hulihin;hinuli;hinuhuli;huhulihin;to catch someone or something
+bato;batuhin;binato;binabato;babatuhin;to throw something at someone or something
+hanap;hanapin;hinanap;hinahanap;hahanapin;to look for something
+hila;hilahin;hinila;hinihila;hihilahin;to pull something
+bitin;ibitin;ibinitin;ibinibitin;ibibitin;to hang something
